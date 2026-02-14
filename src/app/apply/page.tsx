@@ -32,7 +32,10 @@ const ContactUsPage = () => {
     message: false,
   });
 
-  const fields = React.useMemo(() => ["fullName", "email", "phoneNumber", "message"], []);
+  const fields = React.useMemo(
+    () => ["fullName", "email", "phoneNumber", "message"],
+    [],
+  );
 
   const [isLoading, setIsLoading] = useState(false);
   const [isError, setIsError] = useState(true);
@@ -347,7 +350,7 @@ const ContactUsPage = () => {
                   </Typography>
                 </Link>
                 <Link
-                  href="mailto:info@kopeknetworks.com"
+                  href="mailto:info@ECGLife Sciences.com"
                   passHref
                   style={{ textDecoration: "none", color: "inherit" }}
                 >
@@ -359,7 +362,7 @@ const ContactUsPage = () => {
                       mb: 1,
                     }}
                   >
-                    <strong>Email</strong>: info@kopeknetworks.com
+                    <strong>Email</strong>: info@ECGLife Sciences.com
                   </Typography>
                 </Link>
                 <Typography variant="body1" sx={{ marginBottom: 2 }}>

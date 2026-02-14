@@ -91,7 +91,7 @@ const WhySection = () => {
                   marginBottom: 2,
                 }}
               >
-                Kopek Network Solutions
+                ECG Network Solutions
               </Typography>
 
               {/* Button (Hidden on Mobile Landscape) */}

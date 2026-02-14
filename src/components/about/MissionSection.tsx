@@ -1,58 +1,47 @@
-"use client"; // Mark this component as a Client Component
+"use client";
 
 import React from "react";
-import { Box, Typography, Container, styled } from "@mui/material";
-import Grid from "@mui/material/Grid2"; // Correct Grid import
-
-import TelegramIcon from "@mui/icons-material/Telegram";
-import AccountTreeIcon from "@mui/icons-material/AccountTree";
-import GrassIcon from "@mui/icons-material/Grass";
-import GradeIcon from "@mui/icons-material/Grade";
-import BubbleChartIcon from "@mui/icons-material/BubbleChart";
+import { Box, Typography, Container } from "@mui/material";
+import Grid from "@mui/material/Grid2";
+import {
+  Science,
+  Biotech,
+  HealthAndSafety,
+  Psychology,
+  Diversity3,
+} from "@mui/icons-material";
 
 const MissionSection = () => {
-  const MissionListItem = styled(Box)(({ theme }) => ({
-    display: "flex",
-    alignItems: "flex-start",
-    gap: theme.spacing(2),
-    marginBottom: theme.spacing(4),
-  }));
-
   const missionValues = [
     {
-      icon: GrassIcon, // Use GrassIcon directly
-      title: "Embrace Growth",
-      color: "#D8CEFB",
+      icon: Science,
+      title: "Scientific Excellence",
       description:
-        "We are passionate about continuous learning and self-improvement, nurturing an environment that fosters both personal and professional development for our team members and clients.",
+        "We prioritize deep scientific expertise and regulatory knowledge, ensuring every placement meets the rigorous standards of life sciences innovation.",
     },
     {
-      icon: AccountTreeIcon, // Use AccountTreeIcon directly
-      title: "Accountability",
-      color: "#FECDD9",
+      icon: Biotech,
+      title: "Innovation Focus",
       description:
-        "We take responsibility for our actions and outcomes, consistently striving to deliver on our promises while acknowledging and learning from our mistakes.",
+        "We champion breakthrough thinking and cutting-edge research, connecting talent that drives the next generation of therapies and diagnostics.",
     },
     {
-      icon: TelegramIcon, // Use TelegramIcon directly
-      title: "High Agency",
-      color: "#FFE69D",
+      icon: HealthAndSafety,
+      title: "Patient-Centric",
       description:
-        "We empower our team members to take initiative and make decisions, cultivating a culture of adaptability, resilience, and effective problem-solving.",
+        "Every placement we make ultimately serves patients. We understand that our work contributes to better health outcomes worldwide.",
     },
     {
-      icon: BubbleChartIcon, // Use BubbleChartIcon directly
-      title: "Integrity & Honesty",
-      color: "#C1EAFC",
+      icon: Psychology,
+      title: "Integrity & Compliance",
       description:
-        "We uphold the highest ethical standards in all our interactions, building trust through transparency, open communication, and respect for others.",
+        "We uphold the highest ethical standards, ensuring all candidates meet GxP requirements and regulatory compliance expectations.",
     },
     {
-      icon: GradeIcon, // Use GradeIcon directly
-      title: "Excellence",
-      color: "#FED59F",
+      icon: Diversity3,
+      title: "Collaborative Partnership",
       description:
-        "We relentlessly pursue exceptional results, setting ambitious goals and maintaining a steadfast commitment to surpassing expectations in every aspect of our work.",
+        "We build lasting relationships with clients and candidates, fostering a collaborative ecosystem that accelerates scientific progress.",
     },
   ];
 
@@ -60,91 +49,140 @@ const MissionSection = () => {
     <Box
       component="section"
       sx={{
-        marginTop: 10,
-        marginBottom: 10,
+        py: { xs: 8, md: 12 },
+        bgcolor: "background.paper",
       }}
     >
-      <Container maxWidth="md">
-        <Grid container spacing={4}>
-          {/* Sticky Image Column */}
-          <Grid
-            size={{ xs: 12, md: 5 }}
-            sx={{
-              position: { xs: "static", md: "sticky" }, // Sticky only on md and larger screens
-              top: { xs: 0, md: 32 }, // Adjust top position for sticky behavior
-              alignSelf: "flex-start",
-            }}
-          >
-            <Box
-              component="img"
-              src="https://cdn.prod.website-files.com/62276057f672e497e5a941d9/6461ff00376853360eb37b57_mission-img%20(1).webp"
-              alt="a group of three men and a woman"
-              loading="lazy"
+      <Container maxWidth="lg">
+        <Grid container spacing={6}>
+          {/* Mission Content */}
+          <Grid size={{ xs: 12, md: 6 }}>
+            <Typography
+              variant="overline"
               sx={{
-                width: "100%",
-                height: "auto",
-                borderRadius: "8px",
+                color: "primary.main",
+                fontWeight: "bold",
+                letterSpacing: 2,
+                mb: 2,
+                display: "block",
               }}
-            />
+            >
+              OUR MISSION
+            </Typography>
+            <Typography
+              variant="h2"
+              sx={{
+                fontSize: { xs: "2rem", md: "3rem" },
+                lineHeight: 1.2,
+                fontWeight: 700,
+                mb: 4,
+              }}
+            >
+              Empowering Life Sciences Innovation
+            </Typography>
+            <Typography
+              variant="body1"
+              sx={{
+                fontSize: "1.1rem",
+                lineHeight: 1.8,
+                color: "text.secondary",
+                mb: 4,
+              }}
+            >
+              At ECG Life Sciences, we bridge the gap between groundbreaking
+              research and the exceptional talent needed to bring it to life.
+              Our mission is to accelerate drug development, advance clinical
+              research, and improve patient outcomes by connecting life sciences
+              organizations with professionals who possess the expertise,
+              passion, and dedication to make a difference.
+            </Typography>
+            <Typography
+              variant="body1"
+              sx={{
+                fontSize: "1.1rem",
+                lineHeight: 1.8,
+                color: "text.secondary",
+              }}
+            >
+              From early-stage biotech startups to global pharmaceutical
+              leaders, we understand the unique challenges of the life sciences
+              industry and provide tailored staffing solutions that drive
+              success.
+            </Typography>
           </Grid>
 
-          {/* Mission & Values Content Column */}
-          <Grid size={{ xs: 12, md: 7 }}>
-            <Box sx={{ marginBottom: 4 }}>
+          {/* Values Column */}
+          <Grid size={{ xs: 12, md: 6 }}>
+            <Box
+              sx={{
+                bgcolor: "grey.50",
+                borderRadius: 3,
+                p: 4,
+                height: "100%",
+              }}
+            >
               <Typography
-                variant="h2"
-                sx={{ fontSize: "3.25rem", lineHeight: 1.2, fontWeight: 700 }}
+                variant="h4"
+                sx={{
+                  fontWeight: 700,
+                  mb: 4,
+                  color: "text.primary",
+                }}
               >
-                Mission & Values
+                Our Core Values
               </Typography>
-            </Box>
-            <Box sx={{ marginBottom: 6 }}>
-              <Typography
-                variant="body1"
-                sx={{ fontSize: "1.25rem", lineHeight: 1.6 }}
-              >
-                We create better businesses and lives through our
-                all-encompassing 360-degrees solution, managing the hiring, onboarding,
-                payment, and retention process. Committed to fostering a remote
-                work culture that transcends borders, we empower businesses to
-                innovate and thrive in a dynamic global landscape.
-                <br />
-                <br />
-                At Kopek Networks, our core values guide us in our quest to
-                revolutionize remote hiring and create lasting impact:
-              </Typography>
-            </Box>
-
-            {/* Mission Values List */}
-            <Box>
-              {missionValues.map((item, index) => {
-                const IconComponent = item.icon; // Get the icon component
-                return (
-                  <MissionListItem key={index}>
-                    <IconComponent
-                      sx={{ width: 40, height: 40, color: item.color }} // Style the icon
-                    />
-                    <Box>
-                      <Typography
-                        variant="h6"
+              <Box sx={{ display: "flex", flexDirection: "column", gap: 3 }}>
+                {missionValues.map((item, index) => {
+                  const IconComponent = item.icon;
+                  return (
+                    <Box
+                      key={index}
+                      sx={{
+                        display: "flex",
+                        alignItems: "flex-start",
+                        gap: 2,
+                      }}
+                    >
+                      <Box
                         sx={{
-                          fontSize: "1.5rem",
-                          fontWeight: 600,
-                          marginBottom: 1,
+                          bgcolor: "primary.main",
+                          borderRadius: 2,
+                          p: 1.5,
+                          display: "flex",
+                          alignItems: "center",
+                          justifyContent: "center",
+                          minWidth: 48,
+                          minHeight: 48,
                         }}
                       >
-                        {item.title}
-                      </Typography>
-                      <Typography
-                        variant="body2"
-                        sx={{ fontSize: "0.875rem", lineHeight: 1.5 }}
-                      >
-                        {item.description}
-                      </Typography>
+                        <IconComponent sx={{ color: "white", fontSize: 28 }} />
+                      </Box>
+                      <Box>
+                        <Typography
+                          variant="h6"
+                          sx={{
+                            fontSize: "1.2rem",
+                            fontWeight: 600,
+                            mb: 0.5,
+                          }}
+                        >
+                          {item.title}
+                        </Typography>
+                        <Typography
+                          variant="body2"
+                          sx={{
+                            fontSize: "0.95rem",
+                            lineHeight: 1.6,
+                            color: "text.secondary",
+                          }}
+                        >
+                          {item.description}
+                        </Typography>
+                      </Box>
                     </Box>
-                  </MissionListItem>
-                );
-              })}
+                  );
+                })}
+              </Box>
             </Box>
           </Grid>
         </Grid>

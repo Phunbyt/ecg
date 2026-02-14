@@ -1,6 +1,6 @@
 import React from "react";
 import { Box, Typography, Button, Container } from "@mui/material";
-import Grid from "@mui/material/Grid2"; // Correct Grid import
+import Grid from "@mui/material/Grid2";
 
 const HeroSection = () => {
   return (
@@ -8,24 +8,23 @@ const HeroSection = () => {
       id="hero"
       sx={{
         position: "relative",
-        borderRadius: "0 10rem 0 0",
-        py: 8,
-        overflow: "hidden", // Ensure the image doesn't overflow
+        py: { xs: 10, md: 14 },
+        overflow: "hidden",
       }}
     >
-      {/* Background Image with Dark Overlay */}
+      {/* Background Image with Overlay */}
       <Box
         sx={{
           position: "absolute",
           top: 0,
           left: 0,
           width: "100%",
-          height: { xs: "60vh", md: "80vh" }, // Responsive height
+          height: "100%",
           backgroundImage:
-            "url(https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80)", // Replace with your image URL
+            "url(https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=1920&q=80)",
           backgroundSize: "cover",
           backgroundPosition: "center",
-          zIndex: -1, // Place it behind the content
+          zIndex: -1,
           "&::before": {
             content: '""',
             position: "absolute",
@@ -33,56 +32,97 @@ const HeroSection = () => {
             left: 0,
             width: "100%",
             height: "100%",
-            backgroundColor: "rgba(0, 0, 0, 0.5)", // Dark overlay
+            background: "linear-gradient(135deg, rgba(11, 122, 159, 0.85) 0%, rgba(127, 181, 57, 0.85) 100%)",
           },
         }}
       />
 
       {/* Content */}
-      <Container>
-        <Grid container spacing={4}>
-          <Grid size={{ xs: 12, sm: 8 }}>
+      <Container maxWidth="lg">
+        <Grid container spacing={4} alignItems="center">
+          <Grid size={{ xs: 12, md: 8 }}>
+            <Typography
+              variant="overline"
+              sx={{
+                color: "rgba(255, 255, 255, 0.9)",
+                fontWeight: "bold",
+                letterSpacing: 3,
+                mb: 2,
+                display: "block",
+              }}
+            >
+              ABOUT ECG LIFE SCIENCES
+            </Typography>
             <Typography
               variant="h1"
               sx={{
                 mb: 4,
-                fontSize: "3.25rem",
+                fontSize: { xs: "2.5rem", md: "3.75rem" },
                 lineHeight: 1.2,
                 fontWeight: "bold",
-                color: "common.white", // White text for readability
+                color: "white",
               }}
             >
-              Get to know Kopek and Our Mission
+              Advancing Life Sciences Through Exceptional Talent
             </Typography>
             <Typography
-              variant="body1"
-              sx={{ mb: 6, maxWidth: "800px", color: "common.white" }} // White text for readability
-            >
-              Our mission is to revolutionize remote hiring by connecting US
-              market enterprises and startups with exceptional talents.
-            </Typography>
-            <Button
-              variant="contained"
-              color="primary"
-              href="/contact"
+              variant="h5"
               sx={{
-                px: 4,
-                py: 2,
-                fontWeight: "bold",
-                fontSize: { xs: "0.875rem", md: "1rem" }, // Responsive button text
-                backgroundColor: "primary.main", // Ensure button is visible
-                "&:hover": {
-                  backgroundColor: "primary.dark", // Darken on hover
-                },
+                mb: 6,
+                maxWidth: "700px",
+                color: "rgba(255, 255, 255, 0.95)",
+                lineHeight: 1.6,
+                fontSize: { xs: "1.1rem", md: "1.3rem" },
+                fontWeight: 400,
               }}
             >
-              Talk to An Expert
-            </Button>
+              We connect brilliant minds with breakthrough opportunities in biotech,
+              pharmaceuticals, and medical devices—driving innovation that transforms
+              healthcare.
+            </Typography>
+            <Box sx={{ display: "flex", gap: 2, flexWrap: "wrap" }}>
+              <Button
+                variant="contained"
+                href="/contact"
+                sx={{
+                  px: 5,
+                  py: 2,
+                  fontWeight: "bold",
+                  fontSize: "1.1rem",
+                  bgcolor: "white",
+                  color: "primary.main",
+                  "&:hover": {
+                    bgcolor: "rgba(255, 255, 255, 0.9)",
+                    transform: "translateY(-2px)",
+                  },
+                  transition: "all 0.3s ease",
+                }}
+              >
+                Partner With Us
+              </Button>
+              <Button
+                variant="outlined"
+                href="/solutions"
+                sx={{
+                  px: 5,
+                  py: 2,
+                  fontWeight: "bold",
+                  fontSize: "1.1rem",
+                  borderColor: "white",
+                  color: "white",
+                  borderWidth: 2,
+                  "&:hover": {
+                    borderWidth: 2,
+                    bgcolor: "rgba(255, 255, 255, 0.1)",
+                    transform: "translateY(-2px)",
+                  },
+                  transition: "all 0.3s ease",
+                }}
+              >
+                Our Solutions
+              </Button>
+            </Box>
           </Grid>
-          <Grid
-            size={{ xs: 12, sm: 4 }}
-            sx={{ display: { xs: "none", sm: "block" } }}
-          ></Grid>
         </Grid>
       </Container>
     </Box>

@@ -104,7 +104,7 @@ __turbopack_context__.n(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$c
 
 var { g: global, __dirname } = __turbopack_context__;
 {
-__turbopack_context__.v("/_next/static/media/logo.319d66eb.png");}}),
+__turbopack_context__.v("/_next/static/media/logo.d62c41f0.png");}}),
 "[project]/public/logo.png.mjs { IMAGE => \"[project]/public/logo.png (static in ecmascript)\" } [app-rsc] (structured image object, ecmascript)": ((__turbopack_context__) => {
 "use strict";
 
@@ -117,11 +117,11 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$logo$2e$png__$28$s
 ;
 const __TURBOPACK__default__export__ = {
     src: __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$logo$2e$png__$28$static__in__ecmascript$29$__["default"],
-    width: 500,
-    height: 500,
-    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAABCUlEQVR42hWPvUsCcQBAf/9M/0AFDSG0NBQkFRGVGOQYVyH4EYiKoIYoiEZWVH70RYdHDV5XnkNRWVM0NEWDJGK1SWe29Tzf+t7yBCbNxieVvRN0pw9F8lKMpanX6vybTnw3v3hI7VD1RbmfsSNb59kemyVpxrWPBuIud8qj5EaTPPidQdxOP2GHxNzUEpGcgrjyhtifWMDjjeDe2MQVTbOcLjCaOcd2WEZsrayzurjGSPgARyCOLZhkWH9jUH3FnikiCpc3jOc1hrLXTPoSTCdy9Ovv9MUVdtVbRMtoE5M1rKkzBlwJLPEjLNkKIblM68dA9DbbnT/U6jP+/AWB4xKlpxeM305P0QVhrbWWCiBZPwAAAABJRU5ErkJggg==",
+    width: 1280,
+    height: 853,
+    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAFCAIAAAD38zoCAAAAW0lEQVR42lWLMQqAMBRDe/+jeAcHERHcRFoHO1QFKSJailP9KUr/YpMhkJeImERAIAqfQdwIDutus8xqHcxhc3D5ppdFV7ZaAT+wna4edSWn3fnsAeBJAu9jfAHnKnIow8gcBAAAAABJRU5ErkJggg==",
     blurWidth: 8,
-    blurHeight: 8
+    blurHeight: 5
 };
 }}),
 "[project]/public/profile.png (static in ecmascript)": ((__turbopack_context__) => {
@@ -176,7 +176,7 @@ const __TURBOPACK__default__export__ = {
 
 var { g: global, __dirname } = __turbopack_context__;
 {
-__turbopack_context__.v("/_next/static/media/hero.28948228.jpg");}}),
+__turbopack_context__.v("/_next/static/media/hero.1e170949.jpg");}}),
 "[project]/public/hero.jpg.mjs { IMAGE => \"[project]/public/hero.jpg (static in ecmascript)\" } [app-rsc] (structured image object, ecmascript)": ((__turbopack_context__) => {
 "use strict";
 
@@ -189,9 +189,9 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$hero$2e$jpg__$28$s
 ;
 const __TURBOPACK__default__export__ = {
     src: __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$hero$2e$jpg__$28$static__in__ecmascript$29$__["default"],
-    width: 6000,
-    height: 4000,
-    blurDataURL: "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/wAARCAAFAAgDAREAAhEBAxEB/9sAQwAKBwcIBwYKCAgICwoKCw4YEA4NDQ4dFRYRGCMfJSQiHyIhJis3LyYpNCkhIjBBMTQ5Oz4+PiUuRElDPEg3PT47/9sAQwEKCwsODQ4cEBAcOygiKDs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwAur+5ttAD2UjWbvcqC0BKngVxwaTdkdU1e1z//2Q==",
+    width: 5760,
+    height: 3240,
+    blurDataURL: "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/wAARCAAFAAgDAREAAhEBAxEB/9sAQwAKBwcIBwYKCAgICwoKCw4YEA4NDQ4dFRYRGCMfJSQiHyIhJis3LyYpNCkhIjBBMTQ5Oz4+PiUuRElDPEg3PT47/9sAQwEKCwsODQ4cEBAcOygiKDs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDimgi/sJLgJwTgp2OM11p6HK1qf//Z",
     blurWidth: 8,
     blurHeight: 5
 };
@@ -660,16 +660,15 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/image.js [app-rsc] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$index$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$module__evaluation$3e$__ = __turbopack_context__.i("[project]/public/index.ts [app-rsc] (ecmascript) <module evaluation>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$logo$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$public$2f$logo$2e$png__$28$static__in__ecmascript$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object$2c$__ecmascript$29$__$3c$export__default__as__logo$3e$__ = __turbopack_context__.i('[project]/public/logo.png.mjs { IMAGE => "[project]/public/logo.png (static in ecmascript)" } [app-rsc] (structured image object, ecmascript) <export default as logo>');
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$icons$2d$material$2f$esm$2f$Facebook$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/@mui/icons-material/esm/Facebook.js [app-rsc] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$icons$2d$material$2f$esm$2f$Twitter$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/@mui/icons-material/esm/Twitter.js [app-rsc] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$icons$2d$material$2f$esm$2f$LinkedIn$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/@mui/icons-material/esm/LinkedIn.js [app-rsc] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$icons$2d$material$2f$esm$2f$Instagram$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/@mui/icons-material/esm/Instagram.js [app-rsc] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$icons$2d$material$2f$esm$2f$Email$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/@mui/icons-material/esm/Email.js [app-rsc] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$icons$2d$material$2f$esm$2f$Phone$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/@mui/icons-material/esm/Phone.js [app-rsc] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$icons$2d$material$2f$esm$2f$LocationOn$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/@mui/icons-material/esm/LocationOn.js [app-rsc] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$icons$2d$material$2f$esm$2f$ArrowForward$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/@mui/icons-material/esm/ArrowForward.js [app-rsc] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Box$2f$Box$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Box$3e$__ = __turbopack_context__.i("[project]/node_modules/@mui/material/Box/Box.js [app-rsc] (ecmascript) <export default as Box>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Container$2f$Container$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Container$3e$__ = __turbopack_context__.i("[project]/node_modules/@mui/material/Container/Container.js [app-rsc] (ecmascript) <export default as Container>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__ = __turbopack_context__.i("[project]/node_modules/@mui/material/Typography/Typography.js [app-rsc] (ecmascript) <export default as Typography>");
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$IconButton$2f$IconButton$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__IconButton$3e$__ = __turbopack_context__.i("[project]/node_modules/@mui/material/IconButton/IconButton.js [app-rsc] (ecmascript) <export default as IconButton>");
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Divider$2f$Divider$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Divider$3e$__ = __turbopack_context__.i("[project]/node_modules/@mui/material/Divider/Divider.js [app-rsc] (ecmascript) <export default as Divider>");
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Grid2$2f$Grid2$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/@mui/material/Grid2/Grid2.js [app-rsc] (ecmascript)"); // Correct Grid import
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Button$2f$Button$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Button$3e$__ = __turbopack_context__.i("[project]/node_modules/@mui/material/Button/Button.js [app-rsc] (ecmascript) <export default as Button>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Grid2$2f$Grid2$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/@mui/material/Grid2/Grid2.js [app-rsc] (ecmascript)");
 ;
 ;
 ;
@@ -684,462 +683,791 @@ const Footer = ()=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Box$2f$Box$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Box$3e$__["Box"], {
         component: "footer",
         sx: {
-            bgcolor: "grey.900",
+            bgcolor: "#0a1929",
             color: "white",
-            py: 6
+            position: "relative",
+            overflow: "hidden"
         },
-        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Container$2f$Container$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Container$3e$__["Container"], {
-            maxWidth: "lg",
-            children: [
-                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Grid2$2f$Grid2$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                    container: true,
-                    spacing: 4,
-                    children: [
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Grid2$2f$Grid2$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                            size: {
-                                xs: 12,
-                                md: 3
-                            },
+        children: [
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Box$2f$Box$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Box$3e$__["Box"], {
+                sx: {
+                    position: "absolute",
+                    top: 0,
+                    left: 0,
+                    right: 0,
+                    height: "100%",
+                    background: "radial-gradient(circle at 20% 50%, rgba(11, 122, 159, 0.1) 0%, transparent 50%), radial-gradient(circle at 80% 80%, rgba(118, 75, 162, 0.1) 0%, transparent 50%)",
+                    pointerEvents: "none"
+                }
+            }, void 0, false, {
+                fileName: "[project]/src/components/Footer.tsx",
+                lineNumber: 21,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Container$2f$Container$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Container$3e$__["Container"], {
+                maxWidth: "lg",
+                sx: {
+                    position: "relative",
+                    zIndex: 1
+                },
+                children: [
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Box$2f$Box$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Box$3e$__["Box"], {
+                        sx: {
+                            py: 8,
+                            borderBottom: "1px solid rgba(255, 255, 255, 0.1)"
+                        },
+                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Grid2$2f$Grid2$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                            container: true,
+                            spacing: 6,
+                            alignItems: "center",
                             children: [
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Box$2f$Box$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Box$3e$__["Box"], {
-                                    sx: {
-                                        display: "flex",
-                                        alignItems: "center",
-                                        mb: 2
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Grid2$2f$Grid2$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                                    size: {
+                                        xs: 12,
+                                        md: 7
                                     },
                                     children: [
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                            src: __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$logo$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$public$2f$logo$2e$png__$28$static__in__ecmascript$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object$2c$__ecmascript$29$__$3c$export__default__as__logo$3e$__["logo"],
-                                            alt: "Logo",
-                                            width: 40,
-                                            height: 40,
-                                            style: {
-                                                height: "32px",
-                                                width: "auto"
-                                            }
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__["Typography"], {
+                                            variant: "h3",
+                                            sx: {
+                                                fontWeight: "bold",
+                                                mb: 2,
+                                                fontSize: {
+                                                    xs: "1.75rem",
+                                                    md: "2.5rem"
+                                                },
+                                                background: "linear-gradient(135deg, #0B7A9F 0%, #7FB539 100%)",
+                                                WebkitBackgroundClip: "text",
+                                                WebkitTextFillColor: "transparent",
+                                                backgroundClip: "text"
+                                            },
+                                            children: "Ready to Build Your Team?"
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/Footer.tsx",
-                                            lineNumber: 17,
+                                            lineNumber: 45,
+                                            columnNumber: 15
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__["Typography"], {
+                                            variant: "h6",
+                                            sx: {
+                                                color: "grey.400",
+                                                fontSize: {
+                                                    xs: "1rem",
+                                                    md: "1.1rem"
+                                                },
+                                                fontWeight: 400,
+                                                maxWidth: "600px"
+                                            },
+                                            children: "Connect with top life sciences professionals who can drive your next breakthrough. Let's discuss your staffing needs today."
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/components/Footer.tsx",
+                                            lineNumber: 60,
+                                            columnNumber: 15
+                                        }, this)
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/src/components/Footer.tsx",
+                                    lineNumber: 44,
+                                    columnNumber: 13
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Grid2$2f$Grid2$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                                    size: {
+                                        xs: 12,
+                                        md: 5
+                                    },
+                                    sx: {
+                                        textAlign: {
+                                            xs: "left",
+                                            md: "right"
+                                        }
+                                    },
+                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Button$2f$Button$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Button$3e$__["Button"], {
+                                        variant: "contained",
+                                        size: "large",
+                                        href: "/contact",
+                                        endIcon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$icons$2d$material$2f$esm$2f$ArrowForward$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
+                                            fileName: "[project]/src/components/Footer.tsx",
+                                            lineNumber: 81,
+                                            columnNumber: 26
+                                        }, void 0),
+                                        sx: {
+                                            px: 5,
+                                            py: 2,
+                                            fontSize: "1.1rem",
+                                            fontWeight: "bold",
+                                            background: "linear-gradient(135deg, #0B7A9F 0%, #7FB539 100%)",
+                                            boxShadow: "0 8px 24px rgba(11, 122, 159, 0.3)",
+                                            "&:hover": {
+                                                background: "linear-gradient(135deg, #7FB539 0%, #0B7A9F 100%)",
+                                                boxShadow: "0 12px 32px rgba(11, 122, 159, 0.4)",
+                                                transform: "translateY(-2px)"
+                                            },
+                                            transition: "all 0.3s ease"
+                                        },
+                                        children: "Get Started"
+                                    }, void 0, false, {
+                                        fileName: "[project]/src/components/Footer.tsx",
+                                        lineNumber: 77,
+                                        columnNumber: 15
+                                    }, this)
+                                }, void 0, false, {
+                                    fileName: "[project]/src/components/Footer.tsx",
+                                    lineNumber: 73,
+                                    columnNumber: 13
+                                }, this)
+                            ]
+                        }, void 0, true, {
+                            fileName: "[project]/src/components/Footer.tsx",
+                            lineNumber: 43,
+                            columnNumber: 11
+                        }, this)
+                    }, void 0, false, {
+                        fileName: "[project]/src/components/Footer.tsx",
+                        lineNumber: 37,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Box$2f$Box$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Box$3e$__["Box"], {
+                        sx: {
+                            py: 8
+                        },
+                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Grid2$2f$Grid2$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                            container: true,
+                            spacing: 6,
+                            children: [
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Grid2$2f$Grid2$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                                    size: {
+                                        xs: 12,
+                                        md: 4
+                                    },
+                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Box$2f$Box$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Box$3e$__["Box"], {
+                                        sx: {
+                                            mb: 3
+                                        },
+                                        children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Box$2f$Box$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Box$3e$__["Box"], {
+                                                sx: {
+                                                    display: "flex",
+                                                    alignItems: "center",
+                                                    mb: 3
+                                                },
+                                                children: [
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                                                        src: __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$logo$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$public$2f$logo$2e$png__$28$static__in__ecmascript$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object$2c$__ecmascript$29$__$3c$export__default__as__logo$3e$__["logo"],
+                                                        alt: "ECG Life Sciences Logo",
+                                                        width: 48,
+                                                        height: 48,
+                                                        style: {
+                                                            height: "40px",
+                                                            width: "auto"
+                                                        }
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/src/components/Footer.tsx",
+                                                        lineNumber: 112,
+                                                        columnNumber: 19
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__["Typography"], {
+                                                        variant: "h5",
+                                                        sx: {
+                                                            ml: 2,
+                                                            fontWeight: "bold",
+                                                            color: "white"
+                                                        },
+                                                        children: "ECG Life Sciences"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/src/components/Footer.tsx",
+                                                        lineNumber: 119,
+                                                        columnNumber: 19
+                                                    }, this)
+                                                ]
+                                            }, void 0, true, {
+                                                fileName: "[project]/src/components/Footer.tsx",
+                                                lineNumber: 111,
+                                                columnNumber: 17
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__["Typography"], {
+                                                variant: "body2",
+                                                sx: {
+                                                    color: "grey.400",
+                                                    lineHeight: 1.8,
+                                                    fontSize: "0.95rem",
+                                                    mb: 4
+                                                },
+                                                children: "Empowering life sciences innovation through exceptional talent placement. We connect brilliant minds with breakthrough opportunities."
+                                            }, void 0, false, {
+                                                fileName: "[project]/src/components/Footer.tsx",
+                                                lineNumber: 126,
+                                                columnNumber: 17
+                                            }, this)
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/src/components/Footer.tsx",
+                                        lineNumber: 110,
+                                        columnNumber: 15
+                                    }, this)
+                                }, void 0, false, {
+                                    fileName: "[project]/src/components/Footer.tsx",
+                                    lineNumber: 109,
+                                    columnNumber: 13
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Grid2$2f$Grid2$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                                    size: {
+                                        xs: 6,
+                                        sm: 4,
+                                        md: 2
+                                    },
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__["Typography"], {
+                                            variant: "h6",
+                                            sx: {
+                                                fontWeight: "bold",
+                                                mb: 3,
+                                                color: "white",
+                                                fontSize: "1.1rem"
+                                            },
+                                            children: "Company"
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/components/Footer.tsx",
+                                            lineNumber: 144,
+                                            columnNumber: 15
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Box$2f$Box$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Box$3e$__["Box"], {
+                                            component: "ul",
+                                            sx: {
+                                                listStyle: "none",
+                                                p: 0,
+                                                m: 0
+                                            },
+                                            children: [
+                                                {
+                                                    label: "Home",
+                                                    href: "/"
+                                                },
+                                                {
+                                                    label: "About Us",
+                                                    href: "/about"
+                                                },
+                                                {
+                                                    label: "Solutions",
+                                                    href: "/solutions"
+                                                },
+                                                {
+                                                    label: "Careers",
+                                                    href: "/careers"
+                                                },
+                                                {
+                                                    label: "Contact",
+                                                    href: "/contact"
+                                                }
+                                            ].map((link)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                                    style: {
+                                                        marginBottom: "14px"
+                                                    },
+                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                                                        href: link.href,
+                                                        style: {
+                                                            textDecoration: "none"
+                                                        },
+                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__["Typography"], {
+                                                            sx: {
+                                                                color: "grey.400",
+                                                                fontSize: "0.95rem",
+                                                                display: "inline-block",
+                                                                position: "relative",
+                                                                "&:hover": {
+                                                                    color: "white",
+                                                                    "&::after": {
+                                                                        width: "100%"
+                                                                    }
+                                                                },
+                                                                "&::after": {
+                                                                    content: '""',
+                                                                    position: "absolute",
+                                                                    bottom: -2,
+                                                                    left: 0,
+                                                                    width: 0,
+                                                                    height: "2px",
+                                                                    background: "linear-gradient(90deg, #0B7A9F 0%, #7FB539 100%)",
+                                                                    transition: "width 0.3s ease"
+                                                                }
+                                                            },
+                                                            children: link.label
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/src/components/Footer.tsx",
+                                                            lineNumber: 165,
+                                                            columnNumber: 23
+                                                        }, this)
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/src/components/Footer.tsx",
+                                                        lineNumber: 164,
+                                                        columnNumber: 21
+                                                    }, this)
+                                                }, link.label, false, {
+                                                    fileName: "[project]/src/components/Footer.tsx",
+                                                    lineNumber: 163,
+                                                    columnNumber: 19
+                                                }, this))
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/components/Footer.tsx",
+                                            lineNumber: 155,
+                                            columnNumber: 15
+                                        }, this)
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/src/components/Footer.tsx",
+                                    lineNumber: 143,
+                                    columnNumber: 13
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Grid2$2f$Grid2$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                                    size: {
+                                        xs: 6,
+                                        sm: 4,
+                                        md: 3
+                                    },
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__["Typography"], {
+                                            variant: "h6",
+                                            sx: {
+                                                fontWeight: "bold",
+                                                mb: 3,
+                                                color: "white",
+                                                fontSize: "1.1rem"
+                                            },
+                                            children: "Services"
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/components/Footer.tsx",
+                                            lineNumber: 200,
+                                            columnNumber: 15
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Box$2f$Box$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Box$3e$__["Box"], {
+                                            component: "ul",
+                                            sx: {
+                                                listStyle: "none",
+                                                p: 0,
+                                                m: 0
+                                            },
+                                            children: [
+                                                {
+                                                    label: "Clinical Trials",
+                                                    href: "/#clinical-trial-support"
+                                                },
+                                                {
+                                                    label: "Regulatory",
+                                                    href: "/#regulatory-consulting"
+                                                },
+                                                {
+                                                    label: "Quality Assurance",
+                                                    href: "/#quality-assurance"
+                                                },
+                                                {
+                                                    label: "Laboratory",
+                                                    href: "/#laboratory-services"
+                                                },
+                                                {
+                                                    label: "Medical Writing",
+                                                    href: "/#medical-writing"
+                                                },
+                                                {
+                                                    label: "Project Management",
+                                                    href: "/#project-management"
+                                                }
+                                            ].map((service)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                                    style: {
+                                                        marginBottom: "14px"
+                                                    },
+                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                                                        href: service.href,
+                                                        style: {
+                                                            textDecoration: "none"
+                                                        },
+                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__["Typography"], {
+                                                            sx: {
+                                                                color: "grey.400",
+                                                                fontSize: "0.95rem",
+                                                                display: "inline-block",
+                                                                position: "relative",
+                                                                "&:hover": {
+                                                                    color: "white",
+                                                                    "&::after": {
+                                                                        width: "100%"
+                                                                    }
+                                                                },
+                                                                "&::after": {
+                                                                    content: '""',
+                                                                    position: "absolute",
+                                                                    bottom: -2,
+                                                                    left: 0,
+                                                                    width: 0,
+                                                                    height: "2px",
+                                                                    background: "linear-gradient(90deg, #0B7A9F 0%, #7FB539 100%)",
+                                                                    transition: "width 0.3s ease"
+                                                                }
+                                                            },
+                                                            children: service.label
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/src/components/Footer.tsx",
+                                                            lineNumber: 228,
+                                                            columnNumber: 23
+                                                        }, this)
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/src/components/Footer.tsx",
+                                                        lineNumber: 224,
+                                                        columnNumber: 21
+                                                    }, this)
+                                                }, service.label, false, {
+                                                    fileName: "[project]/src/components/Footer.tsx",
+                                                    lineNumber: 223,
+                                                    columnNumber: 19
+                                                }, this))
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/components/Footer.tsx",
+                                            lineNumber: 211,
+                                            columnNumber: 15
+                                        }, this)
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/src/components/Footer.tsx",
+                                    lineNumber: 199,
+                                    columnNumber: 13
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Grid2$2f$Grid2$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                                    size: {
+                                        xs: 12,
+                                        sm: 4,
+                                        md: 3
+                                    },
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__["Typography"], {
+                                            variant: "h6",
+                                            sx: {
+                                                fontWeight: "bold",
+                                                mb: 3,
+                                                color: "white",
+                                                fontSize: "1.1rem"
+                                            },
+                                            children: "Contact"
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/components/Footer.tsx",
+                                            lineNumber: 263,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Box$2f$Box$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Box$3e$__["Box"], {
                                             sx: {
-                                                ml: 2
+                                                display: "flex",
+                                                flexDirection: "column",
+                                                gap: 3
                                             },
                                             children: [
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__["Typography"], {
-                                                    variant: "h6",
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Box$2f$Box$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Box$3e$__["Box"], {
                                                     sx: {
-                                                        fontWeight: "bold"
+                                                        display: "flex",
+                                                        alignItems: "flex-start",
+                                                        gap: 2
                                                     },
-                                                    children: "Kopek Networks"
-                                                }, void 0, false, {
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Box$2f$Box$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Box$3e$__["Box"], {
+                                                            sx: {
+                                                                bgcolor: "rgba(11, 122, 159, 0.1)",
+                                                                borderRadius: "8px",
+                                                                p: 1,
+                                                                display: "flex",
+                                                                alignItems: "center",
+                                                                justifyContent: "center"
+                                                            },
+                                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$icons$2d$material$2f$esm$2f$LocationOn$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                                                                sx: {
+                                                                    color: "#0B7A9F",
+                                                                    fontSize: 20
+                                                                }
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/src/components/Footer.tsx",
+                                                                lineNumber: 286,
+                                                                columnNumber: 21
+                                                            }, this)
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/src/components/Footer.tsx",
+                                                            lineNumber: 276,
+                                                            columnNumber: 19
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                                                            href: "https://www.google.com/maps/place/5900+Balcones+Drive+Suite+100+Austin,+TX+78731",
+                                                            target: "_blank",
+                                                            rel: "noopener noreferrer",
+                                                            style: {
+                                                                textDecoration: "none",
+                                                                flex: 1
+                                                            },
+                                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__["Typography"], {
+                                                                sx: {
+                                                                    color: "grey.400",
+                                                                    fontSize: "0.9rem",
+                                                                    lineHeight: 1.6,
+                                                                    "&:hover": {
+                                                                        color: "white"
+                                                                    },
+                                                                    transition: "color 0.3s ease"
+                                                                },
+                                                                children: [
+                                                                    "5900 Balcones Drive Suite 100",
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
+                                                                        fileName: "[project]/src/components/Footer.tsx",
+                                                                        lineNumber: 304,
+                                                                        columnNumber: 23
+                                                                    }, this),
+                                                                    "Austin, TX 78731"
+                                                                ]
+                                                            }, void 0, true, {
+                                                                fileName: "[project]/src/components/Footer.tsx",
+                                                                lineNumber: 294,
+                                                                columnNumber: 21
+                                                            }, this)
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/src/components/Footer.tsx",
+                                                            lineNumber: 288,
+                                                            columnNumber: 19
+                                                        }, this)
+                                                    ]
+                                                }, void 0, true, {
                                                     fileName: "[project]/src/components/Footer.tsx",
-                                                    lineNumber: 25,
+                                                    lineNumber: 275,
                                                     columnNumber: 17
                                                 }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__["Typography"], {
-                                                    variant: "body2",
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Box$2f$Box$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Box$3e$__["Box"], {
                                                     sx: {
-                                                        color: "grey.400"
+                                                        display: "flex",
+                                                        alignItems: "center",
+                                                        gap: 2
                                                     },
-                                                    children: "Solutions that work"
-                                                }, void 0, false, {
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Box$2f$Box$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Box$3e$__["Box"], {
+                                                            sx: {
+                                                                bgcolor: "rgba(11, 122, 159, 0.1)",
+                                                                borderRadius: "8px",
+                                                                p: 1,
+                                                                display: "flex",
+                                                                alignItems: "center",
+                                                                justifyContent: "center"
+                                                            },
+                                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$icons$2d$material$2f$esm$2f$Phone$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                                                                sx: {
+                                                                    color: "#0B7A9F",
+                                                                    fontSize: 20
+                                                                }
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/src/components/Footer.tsx",
+                                                                lineNumber: 321,
+                                                                columnNumber: 21
+                                                            }, this)
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/src/components/Footer.tsx",
+                                                            lineNumber: 311,
+                                                            columnNumber: 19
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                                                            href: "tel:+18009374435",
+                                                            style: {
+                                                                textDecoration: "none"
+                                                            },
+                                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__["Typography"], {
+                                                                sx: {
+                                                                    color: "grey.400",
+                                                                    fontSize: "0.9rem",
+                                                                    "&:hover": {
+                                                                        color: "white"
+                                                                    },
+                                                                    transition: "color 0.3s ease"
+                                                                },
+                                                                children: "1-800-937-4435"
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/src/components/Footer.tsx",
+                                                                lineNumber: 327,
+                                                                columnNumber: 21
+                                                            }, this)
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/src/components/Footer.tsx",
+                                                            lineNumber: 323,
+                                                            columnNumber: 19
+                                                        }, this)
+                                                    ]
+                                                }, void 0, true, {
                                                     fileName: "[project]/src/components/Footer.tsx",
-                                                    lineNumber: 28,
+                                                    lineNumber: 310,
+                                                    columnNumber: 17
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Box$2f$Box$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Box$3e$__["Box"], {
+                                                    sx: {
+                                                        display: "flex",
+                                                        alignItems: "center",
+                                                        gap: 2
+                                                    },
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Box$2f$Box$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Box$3e$__["Box"], {
+                                                            sx: {
+                                                                bgcolor: "rgba(11, 122, 159, 0.1)",
+                                                                borderRadius: "8px",
+                                                                p: 1,
+                                                                display: "flex",
+                                                                alignItems: "center",
+                                                                justifyContent: "center"
+                                                            },
+                                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$icons$2d$material$2f$esm$2f$Email$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                                                                sx: {
+                                                                    color: "#0B7A9F",
+                                                                    fontSize: 20
+                                                                }
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/src/components/Footer.tsx",
+                                                                lineNumber: 351,
+                                                                columnNumber: 21
+                                                            }, this)
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/src/components/Footer.tsx",
+                                                            lineNumber: 341,
+                                                            columnNumber: 19
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                                                            href: "mailto:info@ecglifesciences.com",
+                                                            style: {
+                                                                textDecoration: "none"
+                                                            },
+                                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__["Typography"], {
+                                                                sx: {
+                                                                    color: "grey.400",
+                                                                    fontSize: "0.9rem",
+                                                                    "&:hover": {
+                                                                        color: "white"
+                                                                    },
+                                                                    transition: "color 0.3s ease"
+                                                                },
+                                                                children: "info@ecglifesciences.com"
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/src/components/Footer.tsx",
+                                                                lineNumber: 357,
+                                                                columnNumber: 21
+                                                            }, this)
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/src/components/Footer.tsx",
+                                                            lineNumber: 353,
+                                                            columnNumber: 19
+                                                        }, this)
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/src/components/Footer.tsx",
+                                                    lineNumber: 340,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/components/Footer.tsx",
-                                            lineNumber: 24,
+                                            lineNumber: 274,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/components/Footer.tsx",
-                                    lineNumber: 16,
+                                    lineNumber: 262,
                                     columnNumber: 13
-                                }, this),
+                                }, this)
+                            ]
+                        }, void 0, true, {
+                            fileName: "[project]/src/components/Footer.tsx",
+                            lineNumber: 107,
+                            columnNumber: 11
+                        }, this)
+                    }, void 0, false, {
+                        fileName: "[project]/src/components/Footer.tsx",
+                        lineNumber: 106,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Box$2f$Box$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Box$3e$__["Box"], {
+                        sx: {
+                            py: 4,
+                            borderTop: "1px solid rgba(255, 255, 255, 0.1)"
+                        },
+                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Box$2f$Box$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Box$3e$__["Box"], {
+                            sx: {
+                                display: "flex",
+                                flexDirection: {
+                                    xs: "column",
+                                    sm: "row"
+                                },
+                                justifyContent: "space-between",
+                                alignItems: "center",
+                                gap: 2
+                            },
+                            children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__["Typography"], {
                                     variant: "body2",
                                     sx: {
-                                        color: "grey.400"
-                                    },
-                                    children: "Empowering businesses with innovative solutions tailored to your needs."
-                                }, void 0, false, {
-                                    fileName: "[project]/src/components/Footer.tsx",
-                                    lineNumber: 33,
-                                    columnNumber: 13
-                                }, this)
-                            ]
-                        }, void 0, true, {
-                            fileName: "[project]/src/components/Footer.tsx",
-                            lineNumber: 15,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Grid2$2f$Grid2$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                            size: {
-                                xs: 12,
-                                md: 3
-                            },
-                            children: [
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__["Typography"], {
-                                    variant: "h6",
-                                    sx: {
-                                        fontWeight: "bold",
-                                        mb: 2
-                                    },
-                                    children: "Quick Links"
-                                }, void 0, false, {
-                                    fileName: "[project]/src/components/Footer.tsx",
-                                    lineNumber: 41,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Box$2f$Box$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Box$3e$__["Box"], {
-                                    component: "ul",
-                                    sx: {
-                                        listStyle: "none",
-                                        p: 0,
-                                        m: 0
+                                        color: "grey.500",
+                                        fontSize: "0.9rem"
                                     },
                                     children: [
-                                        {
-                                            label: "Home",
-                                            href: "/"
-                                        },
-                                        {
-                                            label: "About Us",
-                                            href: "/about"
-                                        },
-                                        {
-                                            label: "Solutions",
-                                            href: "/solutions"
-                                        },
-                                        {
-                                            label: "Career",
-                                            href: "/career"
-                                        },
-                                        {
-                                            label: "Contact",
-                                            href: "/contact"
-                                        }
-                                    ].map((link)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                                href: link.href,
-                                                passHref: true,
-                                                style: {
-                                                    textDecoration: "none",
-                                                    color: "inherit"
-                                                },
-                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__["Typography"], {
-                                                    sx: {
-                                                        color: "grey.400",
-                                                        textDecoration: "none",
-                                                        "&:hover": {
-                                                            color: "primary.main"
-                                                        },
-                                                        display: "block",
-                                                        mb: 1
-                                                    },
-                                                    children: link.label
-                                                }, void 0, false, {
-                                                    fileName: "[project]/src/components/Footer.tsx",
-                                                    lineNumber: 58,
-                                                    columnNumber: 21
-                                                }, this)
-                                            }, void 0, false, {
-                                                fileName: "[project]/src/components/Footer.tsx",
-                                                lineNumber: 53,
-                                                columnNumber: 19
-                                            }, this)
-                                        }, link.label, false, {
-                                            fileName: "[project]/src/components/Footer.tsx",
-                                            lineNumber: 52,
-                                            columnNumber: 17
-                                        }, this))
-                                }, void 0, false, {
-                                    fileName: "[project]/src/components/Footer.tsx",
-                                    lineNumber: 44,
-                                    columnNumber: 13
-                                }, this)
-                            ]
-                        }, void 0, true, {
-                            fileName: "[project]/src/components/Footer.tsx",
-                            lineNumber: 40,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Grid2$2f$Grid2$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                            size: {
-                                xs: 12,
-                                md: 3
-                            },
-                            children: [
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__["Typography"], {
-                                    variant: "h6",
-                                    sx: {
-                                        fontWeight: "bold",
-                                        mb: 2
-                                    },
-                                    children: "Contact Us"
-                                }, void 0, false, {
-                                    fileName: "[project]/src/components/Footer.tsx",
-                                    lineNumber: 77,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Box$2f$Box$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Box$3e$__["Box"], {
-                                    component: "ul",
-                                    sx: {
-                                        listStyle: "none",
-                                        p: 0,
-                                        m: 0
-                                    },
-                                    children: [
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                                href: "mailto:info@kopeknetworks.com",
-                                                passHref: true,
-                                                style: {
-                                                    textDecoration: "none",
-                                                    color: "inherit"
-                                                },
-                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__["Typography"], {
-                                                    sx: {
-                                                        color: "grey.400",
-                                                        textDecoration: "none",
-                                                        "&:hover": {
-                                                            color: "primary.main"
-                                                        },
-                                                        display: "block",
-                                                        mb: 1
-                                                    },
-                                                    children: "Email: info@kopeknetworks.com"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/src/components/Footer.tsx",
-                                                    lineNumber: 87,
-                                                    columnNumber: 19
-                                                }, this)
-                                            }, void 0, false, {
-                                                fileName: "[project]/src/components/Footer.tsx",
-                                                lineNumber: 82,
-                                                columnNumber: 17
-                                            }, this)
-                                        }, void 0, false, {
-                                            fileName: "[project]/src/components/Footer.tsx",
-                                            lineNumber: 81,
-                                            columnNumber: 15
-                                        }, this),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                                href: "tel:+18009254204",
-                                                passHref: true,
-                                                style: {
-                                                    textDecoration: "none",
-                                                    color: "inherit"
-                                                },
-                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__["Typography"], {
-                                                    sx: {
-                                                        color: "grey.400",
-                                                        textDecoration: "none",
-                                                        "&:hover": {
-                                                            color: "primary.main"
-                                                        },
-                                                        display: "block",
-                                                        mb: 1
-                                                    },
-                                                    children: "Phone: +1 800 925-4204"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/src/components/Footer.tsx",
-                                                    lineNumber: 106,
-                                                    columnNumber: 19
-                                                }, this)
-                                            }, void 0, false, {
-                                                fileName: "[project]/src/components/Footer.tsx",
-                                                lineNumber: 101,
-                                                columnNumber: 17
-                                            }, this)
-                                        }, void 0, false, {
-                                            fileName: "[project]/src/components/Footer.tsx",
-                                            lineNumber: 100,
-                                            columnNumber: 15
-                                        }, this),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                                href: "https://www.google.com/maps/place/9304+Forest+Ln,+Dallas,+TX+75243,+USA/@32.907952,-96.7409114,17z/data=!3m1!4b1!4m6!3m5!1s0x864c1fe54e735b19:0x60238390c76795e!8m2!3d32.907952!4d-96.7383365!16s%2Fg%2F11b8v4ydxz?entry=ttu&g_ep=EgoyMDI1MDMxMi4wIKXMDSoASAFQAw%3D%3D",
-                                                passHref: true,
-                                                style: {
-                                                    textDecoration: "none",
-                                                    color: "inherit"
-                                                },
-                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__["Typography"], {
-                                                    sx: {
-                                                        color: "grey.400",
-                                                        textDecoration: "none",
-                                                        "&:hover": {
-                                                            color: "primary.main"
-                                                        },
-                                                        display: "block",
-                                                        mb: 1
-                                                    },
-                                                    children: "Address: 9304 Forest Lane Suite 206, Dallas TX 75243 USA"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/src/components/Footer.tsx",
-                                                    lineNumber: 125,
-                                                    columnNumber: 19
-                                                }, this)
-                                            }, void 0, false, {
-                                                fileName: "[project]/src/components/Footer.tsx",
-                                                lineNumber: 120,
-                                                columnNumber: 17
-                                            }, this)
-                                        }, void 0, false, {
-                                            fileName: "[project]/src/components/Footer.tsx",
-                                            lineNumber: 119,
-                                            columnNumber: 15
-                                        }, this)
+                                        "© ",
+                                        new Date().getFullYear(),
+                                        " ECG Life Sciences. All rights reserved."
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/components/Footer.tsx",
-                                    lineNumber: 80,
-                                    columnNumber: 13
-                                }, this)
-                            ]
-                        }, void 0, true, {
-                            fileName: "[project]/src/components/Footer.tsx",
-                            lineNumber: 76,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Grid2$2f$Grid2$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                            size: {
-                                xs: 12,
-                                md: 3
-                            },
-                            children: [
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__["Typography"], {
-                                    variant: "h6",
-                                    sx: {
-                                        fontWeight: "bold",
-                                        mb: 2
-                                    },
-                                    children: "Follow Us"
-                                }, void 0, false, {
-                                    fileName: "[project]/src/components/Footer.tsx",
-                                    lineNumber: 143,
+                                    lineNumber: 390,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Box$2f$Box$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Box$3e$__["Box"], {
                                     sx: {
                                         display: "flex",
-                                        gap: 2
+                                        gap: 4
                                     },
                                     children: [
-                                        {
-                                            icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$icons$2d$material$2f$esm$2f$Facebook$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
-                                                fileName: "[project]/src/components/Footer.tsx",
-                                                lineNumber: 148,
-                                                columnNumber: 25
-                                            }, this),
-                                            href: "https://facebook.com"
-                                        },
-                                        {
-                                            icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$icons$2d$material$2f$esm$2f$Twitter$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
-                                                fileName: "[project]/src/components/Footer.tsx",
-                                                lineNumber: 149,
-                                                columnNumber: 25
-                                            }, this),
-                                            href: "https://twitter.com"
-                                        },
-                                        {
-                                            icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$icons$2d$material$2f$esm$2f$LinkedIn$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
-                                                fileName: "[project]/src/components/Footer.tsx",
-                                                lineNumber: 150,
-                                                columnNumber: 25
-                                            }, this),
-                                            href: "https://linkedin.com"
-                                        },
-                                        {
-                                            icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$icons$2d$material$2f$esm$2f$Instagram$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
-                                                fileName: "[project]/src/components/Footer.tsx",
-                                                lineNumber: 151,
-                                                columnNumber: 25
-                                            }, this),
-                                            href: "https://instagram.com"
-                                        }
-                                    ].map((social, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                            href: social.href,
-                                            passHref: true,
+                                        "Privacy Policy",
+                                        "Terms of Service"
+                                    ].map((item)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                                            href: "#",
                                             style: {
-                                                textDecoration: "none",
-                                                color: "inherit"
+                                                textDecoration: "none"
                                             },
-                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$IconButton$2f$IconButton$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__IconButton$3e$__["IconButton"], {
+                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__["Typography"], {
                                                 sx: {
-                                                    color: "grey.400",
+                                                    color: "grey.500",
+                                                    fontSize: "0.9rem",
                                                     "&:hover": {
-                                                        color: "primary.main"
-                                                    }
+                                                        color: "white"
+                                                    },
+                                                    transition: "color 0.3s ease"
                                                 },
-                                                children: social.icon
+                                                children: item
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/Footer.tsx",
-                                                lineNumber: 159,
+                                                lineNumber: 400,
                                                 columnNumber: 19
                                             }, this)
-                                        }, index, false, {
+                                        }, item, false, {
                                             fileName: "[project]/src/components/Footer.tsx",
-                                            lineNumber: 153,
+                                            lineNumber: 399,
                                             columnNumber: 17
                                         }, this))
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/Footer.tsx",
-                                    lineNumber: 146,
+                                    lineNumber: 397,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/components/Footer.tsx",
-                            lineNumber: 142,
+                            lineNumber: 381,
                             columnNumber: 11
                         }, this)
-                    ]
-                }, void 0, true, {
-                    fileName: "[project]/src/components/Footer.tsx",
-                    lineNumber: 13,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Divider$2f$Divider$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Divider$3e$__["Divider"], {
-                    sx: {
-                        borderColor: "grey.800",
-                        my: 4
-                    }
-                }, void 0, false, {
-                    fileName: "[project]/src/components/Footer.tsx",
-                    lineNumber: 174,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__["Typography"], {
-                    variant: "body2",
-                    sx: {
-                        color: "grey.400",
-                        textAlign: "center"
-                    },
-                    children: [
-                        "© ",
-                        new Date().getFullYear(),
-                        " Kopek Networks. All rights reserved."
-                    ]
-                }, void 0, true, {
-                    fileName: "[project]/src/components/Footer.tsx",
-                    lineNumber: 175,
-                    columnNumber: 9
-                }, this)
-            ]
-        }, void 0, true, {
-            fileName: "[project]/src/components/Footer.tsx",
-            lineNumber: 12,
-            columnNumber: 7
-        }, this)
-    }, void 0, false, {
+                    }, void 0, false, {
+                        fileName: "[project]/src/components/Footer.tsx",
+                        lineNumber: 375,
+                        columnNumber: 9
+                    }, this)
+                ]
+            }, void 0, true, {
+                fileName: "[project]/src/components/Footer.tsx",
+                lineNumber: 35,
+                columnNumber: 7
+            }, this)
+        ]
+    }, void 0, true, {
         fileName: "[project]/src/components/Footer.tsx",
         lineNumber: 11,
         columnNumber: 5
@@ -1208,32 +1536,32 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ThemeRe
 ;
 ;
 const metadata = {
-    title: "Kopek Networks",
+    title: "ECG Life Sciences",
     description: "Solutions that work",
-    metadataBase: new URL("https://kopeknetworks.com"),
+    metadataBase: new URL("https://ECGLifeSciences.com"),
     keywords: [
-        "Kopek Networks",
+        "ECG Life Sciences",
         "IT solutions",
         "technology services"
     ],
     authors: [
         {
-            name: "Kopek Networks",
-            url: "https://kopeknetworks.com"
+            name: "ECG Life Sciences",
+            url: "https://ECGLifeSciences.com"
         }
     ],
     generator: "phunbytcode",
     openGraph: {
-        title: "Kopek Networks",
+        title: "ECG Life Sciences",
         description: "Solutions that work",
-        url: "https://kopeknetworks.com",
-        siteName: "Kopek Networks",
+        url: "https://ECGLifeSciences.com",
+        siteName: "ECG Life Sciences",
         images: [
             {
-                url: "https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__",
+                url: "https://ik.imagekit.io/vsf44gqqe/logo.png",
                 width: 1200,
                 height: 630,
-                alt: "Kopek Networks - Solutions that work"
+                alt: "ECG Life Sciences- Solutions that work"
             }
         ],
         locale: "en_US",
@@ -1241,45 +1569,45 @@ const metadata = {
     },
     twitter: {
         card: "summary",
-        title: "Kopek Networks",
+        title: "ECG Life Sciences",
         description: "Solutions that work",
         images: [
-            "https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__"
+            "https://ik.imagekit.io/vsf44gqqe/logo.png"
         ]
     },
     icons: {
-        icon: "https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__",
+        // icon: "https://ik.imagekit.io/vsf44gqqe/logo.png", // Favicon
         apple: [
             {
-                url: "https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__",
+                url: "https://ik.imagekit.io/vsf44gqqe/logo.png",
                 sizes: "57x57"
             },
             {
-                url: "https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__",
+                url: "https://ik.imagekit.io/vsf44gqqe/logo.png",
                 sizes: "60x60"
             },
             {
-                url: "https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__",
+                url: "https://ik.imagekit.io/vsf44gqqe/logo.png",
                 sizes: "72x72"
             },
             {
-                url: "https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__",
+                url: "https://ik.imagekit.io/vsf44gqqe/logo.png",
                 sizes: "114x114"
             },
             {
-                url: "https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__",
+                url: "https://ik.imagekit.io/vsf44gqqe/logo.png",
                 sizes: "120x120"
             },
             {
-                url: "https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__",
+                url: "https://ik.imagekit.io/vsf44gqqe/logo.png",
                 sizes: "144x144"
             },
             {
-                url: "https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__",
+                url: "https://ik.imagekit.io/vsf44gqqe/logo.png",
                 sizes: "152x152"
             },
             {
-                url: "https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__",
+                url: "https://ik.imagekit.io/vsf44gqqe/logo.png",
                 sizes: "180x180"
             }
         ]
@@ -1295,9 +1623,9 @@ const metadata = {
         }
     },
     alternates: {
-        canonical: "https://kopeknetworks.com",
+        canonical: "https://ECGLifeSciences.com",
         languages: {
-            "en-US": "https://kopeknetworks.com/en-US"
+            "en-US": "https://ECGLifeSciences.com/en-US"
         }
     },
     verification: {
@@ -1363,7 +1691,7 @@ function RootLayout({ children }) {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("title", {
-                        children: "Kopek Networks"
+                        children: "ECG Life Sciences"
                     }, void 0, false, {
                         fileName: "[project]/src/app/layout.tsx",
                         lineNumber: 136,
@@ -1371,7 +1699,7 @@ function RootLayout({ children }) {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("meta", {
                         name: "author",
-                        content: "Kopek Networks"
+                        content: "ECG Life Sciences"
                     }, void 0, false, {
                         fileName: "[project]/src/app/layout.tsx",
                         lineNumber: 137,
@@ -1396,7 +1724,7 @@ function RootLayout({ children }) {
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("link", {
                         rel: "apple-touch-icon",
                         sizes: "57x57",
-                        href: "https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__"
+                        href: "https://ik.imagekit.io/vsf44gqqe/logo.png"
                     }, void 0, false, {
                         fileName: "[project]/src/app/layout.tsx",
                         lineNumber: 145,
@@ -1405,7 +1733,7 @@ function RootLayout({ children }) {
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("link", {
                         rel: "apple-touch-icon",
                         sizes: "60x60",
-                        href: "https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__"
+                        href: "https://ik.imagekit.io/vsf44gqqe/logo.png"
                     }, void 0, false, {
                         fileName: "[project]/src/app/layout.tsx",
                         lineNumber: 150,
@@ -1414,7 +1742,7 @@ function RootLayout({ children }) {
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("link", {
                         rel: "apple-touch-icon",
                         sizes: "72x72",
-                        href: "https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__"
+                        href: "https://ik.imagekit.io/vsf44gqqe/logo.png"
                     }, void 0, false, {
                         fileName: "[project]/src/app/layout.tsx",
                         lineNumber: 155,
@@ -1423,7 +1751,7 @@ function RootLayout({ children }) {
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("link", {
                         rel: "apple-touch-icon",
                         sizes: "114x114",
-                        href: "https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__"
+                        href: "https://ik.imagekit.io/vsf44gqqe/logo.png"
                     }, void 0, false, {
                         fileName: "[project]/src/app/layout.tsx",
                         lineNumber: 160,
@@ -1432,7 +1760,7 @@ function RootLayout({ children }) {
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("link", {
                         rel: "apple-touch-icon",
                         sizes: "120x120",
-                        href: "https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__"
+                        href: "https://ik.imagekit.io/vsf44gqqe/logo.png"
                     }, void 0, false, {
                         fileName: "[project]/src/app/layout.tsx",
                         lineNumber: 165,
@@ -1441,7 +1769,7 @@ function RootLayout({ children }) {
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("link", {
                         rel: "apple-touch-icon",
                         sizes: "144x144",
-                        href: "https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__"
+                        href: "https://ik.imagekit.io/vsf44gqqe/logo.png"
                     }, void 0, false, {
                         fileName: "[project]/src/app/layout.tsx",
                         lineNumber: 170,
@@ -1450,7 +1778,7 @@ function RootLayout({ children }) {
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("link", {
                         rel: "apple-touch-icon",
                         sizes: "152x152",
-                        href: "https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__"
+                        href: "https://ik.imagekit.io/vsf44gqqe/logo.png"
                     }, void 0, false, {
                         fileName: "[project]/src/app/layout.tsx",
                         lineNumber: 175,
@@ -1459,7 +1787,7 @@ function RootLayout({ children }) {
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("link", {
                         rel: "apple-touch-icon",
                         sizes: "180x180",
-                        href: "https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__"
+                        href: "https://ik.imagekit.io/vsf44gqqe/logo.png"
                     }, void 0, false, {
                         fileName: "[project]/src/app/layout.tsx",
                         lineNumber: 180,
@@ -1467,7 +1795,7 @@ function RootLayout({ children }) {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("meta", {
                         property: "og:url",
-                        content: "https://kopeknetworks.com/"
+                        content: "https://ECGLife Sciences.com/"
                     }, void 0, false, {
                         fileName: "[project]/src/app/layout.tsx",
                         lineNumber: 187,
@@ -1475,7 +1803,7 @@ function RootLayout({ children }) {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("meta", {
                         property: "og:site_name",
-                        content: "Kopek Networks"
+                        content: "ECG Life Sciences"
                     }, void 0, false, {
                         fileName: "[project]/src/app/layout.tsx",
                         lineNumber: 188,
@@ -1483,7 +1811,7 @@ function RootLayout({ children }) {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("meta", {
                         property: "og:title",
-                        content: "Kopek Networks"
+                        content: "ECG Life Sciences"
                     }, void 0, false, {
                         fileName: "[project]/src/app/layout.tsx",
                         lineNumber: 189,
@@ -1499,7 +1827,7 @@ function RootLayout({ children }) {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("meta", {
                         property: "og:image",
-                        content: "https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__"
+                        content: "https://ik.imagekit.io/vsf44gqqe/logo.png"
                     }, void 0, false, {
                         fileName: "[project]/src/app/layout.tsx",
                         lineNumber: 191,
@@ -1523,7 +1851,7 @@ function RootLayout({ children }) {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("meta", {
                         name: "twitter:title",
-                        content: "Kopek Networks"
+                        content: "ECG Life Sciences"
                     }, void 0, false, {
                         fileName: "[project]/src/app/layout.tsx",
                         lineNumber: 199,
@@ -1539,7 +1867,7 @@ function RootLayout({ children }) {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("meta", {
                         name: "twitter:image",
-                        content: "https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__"
+                        content: "https://ik.imagekit.io/vsf44gqqe/logo.png"
                     }, void 0, false, {
                         fileName: "[project]/src/app/layout.tsx",
                         lineNumber: 201,
@@ -1547,7 +1875,7 @@ function RootLayout({ children }) {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("meta", {
                         name: "twitter:image:alt",
-                        content: "Kopek Networks"
+                        content: "ECG Life Sciences"
                     }, void 0, false, {
                         fileName: "[project]/src/app/layout.tsx",
                         lineNumber: 205,

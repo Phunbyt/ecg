@@ -1,309 +1,610 @@
-"use client"; // Mark this component as a Client Component
+"use client";
 
 import React from "react";
 import {
   Box,
   Typography,
   Container,
-  Grid,
   Button,
   Card,
   CardContent,
+  Chip,
 } from "@mui/material";
-import { fwh, wfh, hmo, lad, careers } from "../../../public";
+import Grid from "@mui/material/Grid2";
+import {
+  Science,
+  Assignment,
+  VerifiedUser,
+  Biotech,
+  Description,
+  ManageAccounts,
+  WorkOutline,
+  TrendingUp,
+  School,
+  HealthAndSafety,
+  Groups,
+  EmojiObjects,
+} from "@mui/icons-material";
 
 const CareersPage = () => {
   const jobOpenings = [
     {
-      title: "Frontend Developer",
-      location: "Remote",
+      title: "Clinical Research Associate",
+      location: "Remote / Hybrid",
       type: "Full-time",
+      level: "Mid-Senior",
       description:
-        "We are looking for a talented Frontend Developer to join our team and help us build amazing user experiences.",
-      applyLink: "/apply",
+        "Monitor clinical trial sites, ensure GCP compliance, and maintain study documentation for Phase II-III oncology trials.",
+      requirements: [
+        "GCP Certification",
+        "3+ years CRA experience",
+        "Oncology preferred",
+      ],
+      icon: Science,
     },
     {
-      title: "Backend Developer",
+      title: "Regulatory Affairs Specialist",
       location: "Remote",
       type: "Full-time",
+      level: "Senior",
       description:
-        "Join our backend team to build scalable and efficient systems that power our platform.",
-      applyLink: "/apply",
+        "Lead IND and NDA submissions, interact with FDA, and provide regulatory strategy for drug development programs.",
+      requirements: [
+        "RAC Certification",
+        "5+ years regulatory",
+        "FDA submissions",
+      ],
+      icon: Assignment,
     },
     {
-      title: "UI/UX Designer",
-      location: "Remote",
-      type: "Part-time",
+      title: "Quality Assurance Manager",
+      location: "Austin, TX",
+      type: "Full-time",
+      level: "Senior",
       description:
-        "We need a creative UI/UX Designer to design intuitive and visually appealing interfaces for our products.",
-      applyLink: "/apply",
+        "Oversee GMP compliance, manage audit programs, and lead quality systems for biologics manufacturing.",
+      requirements: [
+        "GMP/GLP expertise",
+        "Audit experience",
+        "Biologics background",
+      ],
+      icon: VerifiedUser,
+    },
+    {
+      title: "Senior Scientist - Drug Discovery",
+      location: "Remote",
+      type: "Full-time",
+      level: "Senior",
+      description:
+        "Lead target identification and validation projects using CRISPR, proteomics, and high-throughput screening.",
+      requirements: [
+        "PhD in Biology/Chemistry",
+        "5+ years industry",
+        "CRISPR experience",
+      ],
+      icon: Biotech,
+    },
+    {
+      title: "Medical Writer",
+      location: "Remote",
+      type: "Contract",
+      level: "Mid-Senior",
+      description:
+        "Develop clinical study reports, regulatory documents, and scientific publications for cardiovascular programs.",
+      requirements: [
+        "PharmD or PhD",
+        "Medical writing",
+        "Cardiovascular knowledge",
+      ],
+      icon: Description,
+    },
+    {
+      title: "Clinical Project Manager",
+      location: "Remote",
+      type: "Full-time",
+      level: "Senior",
+      description:
+        "Manage multi-site clinical trials from start-up through close-out, ensuring on-time and on-budget delivery.",
+      requirements: [
+        "PMP Certification",
+        "Clinical trials",
+        "Budget management",
+      ],
+      icon: ManageAccounts,
     },
   ];
 
   const benefits = [
     {
-      icon: fwh.src, // Replace with actual icon URL
-      title: "Flexible Work Hours",
+      icon: WorkOutline,
+      title: "Flexible Work Arrangements",
       description:
-        "Work when you're most productive. We offer flexible work hours to suit your lifestyle.",
+        "Remote, hybrid, or on-site options. We support work-life balance that fits your lifestyle.",
     },
     {
-      icon: wfh.src, // Replace with actual icon URL
-      title: "Remote Work",
+      icon: TrendingUp,
+      title: "Competitive Compensation",
       description:
-        "Work from anywhere in the world. We are a fully remote company.",
+        "Industry-leading salaries, performance bonuses, and equity opportunities for top performers.",
     },
     {
-      icon: hmo.src, // Replace with actual icon URL
-      title: "Health Benefits",
+      icon: School,
+      title: "Continuous Learning",
       description:
-        "We provide comprehensive health benefits to keep you and your family covered.",
+        "Access to conferences, certifications, and training programs to advance your career.",
     },
     {
-      icon: lad.src, // Replace with actual icon URL
-      title: "Learning & Development",
+      icon: HealthAndSafety,
+      title: "Comprehensive Benefits",
       description:
-        "We invest in your growth with access to courses, workshops, and conferences.",
+        "Health, dental, vision insurance, 401(k) matching, and generous PTO policies.",
+    },
+    {
+      icon: Groups,
+      title: "Collaborative Culture",
+      description:
+        "Work with brilliant scientists and professionals who are passionate about improving patient lives.",
+    },
+    {
+      icon: EmojiObjects,
+      title: "Impactful Work",
+      description:
+        "Contribute to life-saving therapies and breakthrough treatments that make a real difference.",
     },
   ];
 
   return (
-    <Box
-      component="main"
-      sx={{
-        backgroundColor: "background.paper",
-      }}
-    >
+    <Box component="main">
+      {/* Hero Section */}
       <Box
         sx={{
           position: "relative",
-          height: { xs: "60vh", md: "80vh" }, // Responsive height
-          display: "flex",
-          alignItems: "center",
-          color: "white",
-          overflow: "hidden", // Ensure the overlay doesn't overflow
-          "&::before": {
-            content: '""',
-            position: "absolute",
-            top: 0,
-            left: 0,
-            right: 0,
-            bottom: 0,
-            backgroundImage: `url(${careers.src})`,
-            backgroundSize: "cover",
-            backgroundPosition: "center",
-            zIndex: 1, // Place the background image behind the overlay
-          },
-          "&::after": {
-            content: '""',
-            position: "absolute",
-            top: 0,
-            left: 0,
-            right: 0,
-            bottom: 0,
-            backgroundColor: "rgba(0, 0, 0, 0.5)", // Dark overlay (adjust opacity as needed)
-            zIndex: 2, // Place the overlay above the background image
-          },
+          py: { xs: 12, md: 16 },
+          overflow: "hidden",
         }}
       >
-        <Container maxWidth="lg" sx={{ position: "relative", zIndex: 3 }}>
-          {/* Content */}
-          <Typography
-            variant="h3"
-            sx={{
-              fontWeight: "bold",
-              mb: 3,
-              fontSize: { xs: "1.5rem", sm: "2rem", md: "2.5rem" }, // Responsive font size
-            }}
-          >
-            Join Our Team
-          </Typography>
-          <Typography
-            variant="h5"
-            sx={{
-              mb: 4,
-              maxWidth: "800px",
-              fontSize: { xs: ".7rem", sm: ".9rem", md: "1.1rem" }, // Responsive font size
-            }}
-          >
-            We’re building the future of work. Come be a part of it.
-          </Typography>
-          <Button
-            variant="contained"
-            color="primary"
-            href="/apply"
-            sx={{
-              px: 4,
-              py: 2,
-              fontWeight: "bold",
-              fontSize: { xs: "0.875rem", md: "1rem" }, // Responsive button text
-            }}
-          >
-            View Open Positions
-          </Button>
+        <Box
+          sx={{
+            position: "absolute",
+            top: 0,
+            left: 0,
+            right: 0,
+            bottom: 0,
+            backgroundImage:
+              "url(https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=1920&q=80)",
+            backgroundSize: "cover",
+            backgroundPosition: "center",
+            zIndex: -1,
+            "&::before": {
+              content: '""',
+              position: "absolute",
+              top: 0,
+              left: 0,
+              right: 0,
+              bottom: 0,
+              background:
+                "linear-gradient(135deg, rgba(11, 122, 159, 0.9) 0%, rgba(127, 181, 57, 0.9) 100%)",
+            },
+          }}
+        />
+
+        <Container maxWidth="lg">
+          <Box sx={{ maxWidth: "800px" }}>
+            <Typography
+              variant="overline"
+              sx={{
+                color: "rgba(255, 255, 255, 0.9)",
+                fontWeight: "bold",
+                letterSpacing: 3,
+                mb: 2,
+                display: "block",
+              }}
+            >
+              CAREERS AT ECG LIFE SCIENCES
+            </Typography>
+            <Typography
+              variant="h1"
+              sx={{
+                fontWeight: "bold",
+                mb: 3,
+                fontSize: { xs: "2.5rem", md: "3.75rem" },
+                lineHeight: 1.2,
+                color: "white",
+              }}
+            >
+              Shape the Future of Healthcare
+            </Typography>
+            <Typography
+              variant="h5"
+              sx={{
+                mb: 5,
+                fontSize: { xs: "1.1rem", md: "1.3rem" },
+                color: "rgba(255, 255, 255, 0.95)",
+                lineHeight: 1.6,
+                fontWeight: 400,
+              }}
+            >
+              Join a team of passionate professionals dedicated to connecting
+              brilliant minds with breakthrough opportunities in life sciences.
+            </Typography>
+            <Box sx={{ display: "flex", gap: 2, flexWrap: "wrap" }}>
+              <Button
+                variant="contained"
+                href="#openings"
+                sx={{
+                  px: 5,
+                  py: 2,
+                  fontWeight: "bold",
+                  fontSize: "1.1rem",
+                  bgcolor: "white",
+                  color: "primary.main",
+                  "&:hover": {
+                    bgcolor: "rgba(255, 255, 255, 0.9)",
+                    transform: "translateY(-2px)",
+                  },
+                  transition: "all 0.3s ease",
+                }}
+              >
+                View Open Positions
+              </Button>
+              <Button
+                variant="outlined"
+                href="#benefits"
+                sx={{
+                  px: 5,
+                  py: 2,
+                  fontWeight: "bold",
+                  fontSize: "1.1rem",
+                  borderColor: "white",
+                  color: "white",
+                  borderWidth: 2,
+                  "&:hover": {
+                    borderWidth: 2,
+                    bgcolor: "rgba(255, 255, 255, 0.1)",
+                  },
+                }}
+              >
+                Why ECG?
+              </Button>
+            </Box>
+          </Box>
         </Container>
       </Box>
 
       {/* Job Openings Section */}
-      <Container maxWidth="lg" sx={{ marginTop: 8, marginBottom: 8 }}>
-        <Typography
-          variant="h2"
-          sx={{
-            fontSize: { xs: "2rem", sm: "2.5rem", md: "3rem" }, // Responsive font size
-            fontWeight: 700,
-            textAlign: "center",
-            marginBottom: 4,
-          }}
-        >
-          Current Job Openings
-        </Typography>
-        <Grid container spacing={4}>
-          {jobOpenings.map((job, index) => (
-            <Grid key={index} item xs={12} sm={6} md={4}>
-              <Card
-                sx={{
-                  height: "100%",
-                  display: "flex",
-                  flexDirection: "column",
-                  justifyContent: "space-between",
-                }}
-              >
-                <CardContent>
-                  <Typography
-                    variant="h5"
-                    sx={{
-                      fontWeight: 600,
-                      marginBottom: 1,
-                    }}
-                  >
-                    {job.title}
-                  </Typography>
-                  <Typography
-                    variant="body2"
-                    sx={{
-                      color: "text.secondary",
-                      marginBottom: 1,
-                    }}
-                  >
-                    {job.location} • {job.type}
-                  </Typography>
-                  <Typography
-                    variant="body1"
-                    sx={{
-                      marginBottom: 2,
-                    }}
-                  >
-                    {job.description}
-                  </Typography>
-                </CardContent>
-                <Box sx={{ padding: 2 }}>
-                  <Button
-                    variant="contained"
-                    color="primary"
-                    href={job.applyLink}
-                    fullWidth
-                  >
-                    Apply Now
-                  </Button>
-                </Box>
-              </Card>
-            </Grid>
-          ))}
-        </Grid>
-      </Container>
-
-      {/* Benefits Section */}
       <Box
+        id="openings"
         sx={{
-          backgroundColor: "background.default",
-          padding: { xs: 4, sm: 8 },
+          py: { xs: 8, md: 12 },
+          bgcolor: "background.paper",
         }}
       >
         <Container maxWidth="lg">
-          <Typography
-            variant="h2"
-            sx={{
-              fontSize: { xs: "2rem", sm: "2.5rem", md: "3rem" }, // Responsive font size
-              fontWeight: 700,
-              textAlign: "center",
-              marginBottom: 4,
-            }}
-          >
-            Why Work With Us?
-          </Typography>
+          <Box sx={{ textAlign: "center", mb: 8 }}>
+            <Typography
+              variant="overline"
+              sx={{
+                color: "primary.main",
+                fontWeight: "bold",
+                letterSpacing: 2,
+                mb: 2,
+                display: "block",
+              }}
+            >
+              CURRENT OPPORTUNITIES
+            </Typography>
+            <Typography
+              variant="h2"
+              sx={{
+                fontSize: { xs: "2rem", md: "3rem" },
+                fontWeight: 700,
+                mb: 3,
+              }}
+            >
+              Open Positions
+            </Typography>
+            <Typography
+              variant="h6"
+              sx={{
+                color: "text.secondary",
+                maxWidth: "700px",
+                mx: "auto",
+                fontSize: "1.1rem",
+                fontWeight: 400,
+              }}
+            >
+              Explore exciting opportunities to advance your career in life
+              sciences
+            </Typography>
+          </Box>
+
           <Grid container spacing={4}>
-            {benefits.map((benefit, index) => (
-              <Grid key={index} item xs={12} sm={6} md={3}>
-                <Box sx={{ textAlign: "center" }}>
-                  <Box
-                    component="img"
-                    src={benefit.icon}
-                    alt={benefit.title}
+            {jobOpenings.map((job, index) => {
+              const IconComponent = job.icon;
+              return (
+                <Grid key={index} size={{ xs: 12, md: 6 }}>
+                  <Card
                     sx={{
-                      width: 100,
-                      height: 100,
-                      marginBottom: 2,
-                    }}
-                  />
-                  <Typography
-                    variant="h6"
-                    sx={{
-                      fontWeight: 600,
-                      marginBottom: 1,
+                      height: "100%",
+                      display: "flex",
+                      flexDirection: "column",
+                      transition: "all 0.3s ease",
+                      "&:hover": {
+                        transform: "translateY(-8px)",
+                        boxShadow: 8,
+                      },
                     }}
                   >
-                    {benefit.title}
-                  </Typography>
-                  <Typography variant="body1">{benefit.description}</Typography>
-                </Box>
-              </Grid>
-            ))}
+                    <CardContent sx={{ flexGrow: 1, p: 4 }}>
+                      <Box
+                        sx={{
+                          display: "flex",
+                          alignItems: "flex-start",
+                          gap: 2,
+                          mb: 2,
+                        }}
+                      >
+                        <Box
+                          sx={{
+                            bgcolor: "primary.light",
+                            borderRadius: 2,
+                            p: 1.5,
+                            display: "flex",
+                            alignItems: "center",
+                            justifyContent: "center",
+                          }}
+                        >
+                          <IconComponent
+                            sx={{ color: "primary.main", fontSize: 28 }}
+                          />
+                        </Box>
+                        <Box sx={{ flexGrow: 1 }}>
+                          <Typography
+                            variant="h5"
+                            sx={{
+                              fontWeight: 600,
+                              mb: 1,
+                            }}
+                          >
+                            {job.title}
+                          </Typography>
+                          <Box
+                            sx={{
+                              display: "flex",
+                              gap: 1,
+                              flexWrap: "wrap",
+                              mb: 2,
+                            }}
+                          >
+                            <Chip label={job.location} size="small" />
+                            <Chip
+                              label={job.type}
+                              size="small"
+                              color="primary"
+                            />
+                            <Chip
+                              label={job.level}
+                              size="small"
+                              variant="outlined"
+                            />
+                          </Box>
+                        </Box>
+                      </Box>
+                      <Typography
+                        variant="body1"
+                        sx={{
+                          mb: 3,
+                          color: "text.secondary",
+                          lineHeight: 1.7,
+                        }}
+                      >
+                        {job.description}
+                      </Typography>
+                      <Typography
+                        variant="subtitle2"
+                        sx={{
+                          fontWeight: 600,
+                          mb: 1,
+                          color: "text.primary",
+                        }}
+                      >
+                        Key Requirements:
+                      </Typography>
+                      <Box
+                        sx={{
+                          display: "flex",
+                          flexWrap: "wrap",
+                          gap: 1,
+                          mb: 3,
+                        }}
+                      >
+                        {job.requirements.map((req, idx) => (
+                          <Chip
+                            key={idx}
+                            label={req}
+                            size="small"
+                            sx={{
+                              bgcolor: "grey.100",
+                            }}
+                          />
+                        ))}
+                      </Box>
+                      <Button
+                        variant="contained"
+                        href="/apply"
+                        fullWidth
+                        sx={{
+                          py: 1.5,
+                          fontWeight: 600,
+                        }}
+                      >
+                        Apply Now
+                      </Button>
+                    </CardContent>
+                  </Card>
+                </Grid>
+              );
+            })}
           </Grid>
         </Container>
       </Box>
 
-      {/* Call-to-Action Section */}
+      {/* Benefits Section */}
       <Box
+        id="benefits"
         sx={{
-          backgroundColor: "primary.main",
-          color: "common.white",
-          padding: { xs: 4, sm: 8 },
-          textAlign: "center",
+          py: { xs: 8, md: 12 },
+          bgcolor: "grey.50",
         }}
       >
-        <Typography
-          variant="h2"
-          sx={{
-            fontSize: { xs: "2rem", sm: "2.5rem", md: "3rem" }, // Responsive font size
-            fontWeight: 700,
-            marginBottom: 2,
-          }}
-        >
-          Ready to Join Us?
-        </Typography>
-        <Typography
-          variant="h5"
-          sx={{
-            fontSize: { xs: "1.25rem", sm: "1.5rem", md: "1.75rem" }, // Responsive font size
-            marginBottom: 4,
-          }}
-        >
-          Apply today and start your journey with us.
-        </Typography>
-        <Button
-          variant="contained"
-          color="error"
-          href="/apply"
-          sx={{
-            px: 6,
-            py: 2,
-            fontWeight: 700,
-            fontSize: "1rem",
-            textTransform: "none",
-          }}
-        >
-          View Open Positions
-        </Button>
+        <Container maxWidth="lg">
+          <Box sx={{ textAlign: "center", mb: 8 }}>
+            <Typography
+              variant="overline"
+              sx={{
+                color: "primary.main",
+                fontWeight: "bold",
+                letterSpacing: 2,
+                mb: 2,
+                display: "block",
+              }}
+            >
+              BENEFITS & PERKS
+            </Typography>
+            <Typography
+              variant="h2"
+              sx={{
+                fontSize: { xs: "2rem", md: "3rem" },
+                fontWeight: 700,
+                mb: 3,
+              }}
+            >
+              Why Work With ECG?
+            </Typography>
+            <Typography
+              variant="h6"
+              sx={{
+                color: "text.secondary",
+                maxWidth: "700px",
+                mx: "auto",
+                fontSize: "1.1rem",
+                fontWeight: 400,
+              }}
+            >
+              We invest in our people because they're our greatest asset
+            </Typography>
+          </Box>
+
+          <Grid container spacing={4}>
+            {benefits.map((benefit, index) => {
+              const IconComponent = benefit.icon;
+              return (
+                <Grid key={index} size={{ xs: 12, sm: 6, md: 4 }}>
+                  <Card
+                    sx={{
+                      p: 4,
+                      height: "100%",
+                      textAlign: "center",
+                      transition: "all 0.3s ease",
+                      "&:hover": {
+                        transform: "translateY(-8px)",
+                        boxShadow: 6,
+                      },
+                    }}
+                  >
+                    <Box
+                      sx={{
+                        bgcolor: "primary.main",
+                        borderRadius: "50%",
+                        width: 80,
+                        height: 80,
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        margin: "0 auto",
+                        mb: 3,
+                      }}
+                    >
+                      <IconComponent sx={{ color: "white", fontSize: 40 }} />
+                    </Box>
+                    <Typography
+                      variant="h6"
+                      sx={{
+                        fontWeight: 600,
+                        mb: 2,
+                      }}
+                    >
+                      {benefit.title}
+                    </Typography>
+                    <Typography
+                      variant="body2"
+                      sx={{
+                        color: "text.secondary",
+                        lineHeight: 1.7,
+                      }}
+                    >
+                      {benefit.description}
+                    </Typography>
+                  </Card>
+                </Grid>
+              );
+            })}
+          </Grid>
+        </Container>
+      </Box>
+
+      {/* CTA Section */}
+      <Box
+        sx={{
+          py: { xs: 8, md: 12 },
+          background: "linear-gradient(135deg, #0B7A9F 0%, #7FB539 100%)",
+        }}
+      >
+        <Container maxWidth="md">
+          <Box sx={{ textAlign: "center", color: "white" }}>
+            <Typography
+              variant="h2"
+              sx={{
+                fontWeight: "bold",
+                mb: 3,
+                fontSize: { xs: "2rem", md: "3rem" },
+              }}
+            >
+              Ready to Make an Impact?
+            </Typography>
+            <Typography
+              variant="h6"
+              sx={{
+                mb: 5,
+                fontSize: { xs: "1.1rem", md: "1.3rem" },
+                fontWeight: 400,
+                opacity: 0.95,
+              }}
+            >
+              Join ECG Life Sciences and help us connect brilliant minds with
+              breakthrough opportunities that transform healthcare.
+            </Typography>
+            <Button
+              variant="contained"
+              href="/apply"
+              sx={{
+                px: 6,
+                py: 2.5,
+                fontWeight: "bold",
+                fontSize: "1.1rem",
+                bgcolor: "white",
+                color: "primary.main",
+                "&:hover": {
+                  bgcolor: "rgba(255, 255, 255, 0.9)",
+                  transform: "translateY(-2px)",
+                },
+                transition: "all 0.3s ease",
+              }}
+            >
+              Apply Today
+            </Button>
+          </Box>
+        </Container>
       </Box>
     </Box>
   );

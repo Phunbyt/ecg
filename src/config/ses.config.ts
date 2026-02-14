@@ -19,14 +19,14 @@ const accKey = "AKIAWEFZ7EBX3EJXQHWK";
 //     const input = {
 //       TemplateName: "User-Notification", // required
 //       TemplateContent: {
-//         Subject: "Kopek Networks",
-//         Text: "Hello From Kopek Networks",
+//         Subject: "ECG Life Sciences",
+//         Text: "Hello From ECG Life Sciences",
 //         Html: `<div>
 //   <div>
 //     <h1>Hello, {{firstName}}</h1>
 //   </div>
 //   <div>
-//     <p>Thank you for contacting Kopek Networks</p>
+//     <p>Thank you for contacting ECG Life Sciences</p>
 //   </div>
 //   <div>
 //     <p>We have received your message and will reach out to you shortly</p>
@@ -35,7 +35,7 @@ const accKey = "AKIAWEFZ7EBX3EJXQHWK";
 //   <br />
 //   <div>
 //     <p>Warm Regards</p>
-//     <p>The Kopek Networks Team</p>
+//     <p>The ECG Life SciencesTeam</p>
 //   </div>
 // </div>
 
@@ -71,7 +71,7 @@ export const sendEmail = async ({
 
   try {
     const templateName = "Admin-Notification-3";
-    const emailDestination = "info@kopeknetworks.com";
+    const emailDestination = "info@ECGLife Sciences.com";
     const templateData = {
       firstName,
       lastName,
@@ -81,7 +81,7 @@ export const sendEmail = async ({
     };
 
     const params = {
-      FromEmailAddress: "Kopek Networks <info@kopeknetworks.com>",
+      FromEmailAddress: "ECG Life Sciences<info@ECGLife Sciences.com>",
       Destination: {
         ToAddresses: [emailDestination],
       },
@@ -93,9 +93,9 @@ export const sendEmail = async ({
       },
       // ConfigurationSetName: "ConfigSet",
     };
-     const command = new SendEmailCommand(params);
+    const command = new SendEmailCommand(params);
 
-     const data = await ses.send(command);
+    const data = await ses.send(command);
 
     console.log(data);
     console.log("data.....");
@@ -125,7 +125,7 @@ export const sendUserEmail = async ({ firstName, email }: any) => {
     };
 
     const params = {
-      FromEmailAddress: "Kopek Networks <info@kopeknetworks.com>",
+      FromEmailAddress: "ECG Life Sciences<info@ECGLife Sciences.com>",
       Destination: {
         ToAddresses: [emailDestination],
       },
@@ -136,9 +136,8 @@ export const sendUserEmail = async ({ firstName, email }: any) => {
         },
       },
     };
-      
-      const command = new SendEmailCommand(params);
 
+    const command = new SendEmailCommand(params);
 
     const data = await ses.send(command);
 

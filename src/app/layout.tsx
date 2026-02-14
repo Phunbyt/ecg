@@ -18,23 +18,23 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Kopek Networks",
+  title: "ECG Life Sciences",
   description: "Solutions that work",
-  metadataBase: new URL("https://kopeknetworks.com"), // Base URL for absolute URLs
-  keywords: ["Kopek Networks", "IT solutions", "technology services"],
-  authors: [{ name: "Kopek Networks", url: "https://kopeknetworks.com" }],
+  metadataBase: new URL("https://ECGLifeSciences.com"), // Base URL for absolute URLs
+  keywords: ["ECG Life Sciences", "IT solutions", "technology services"],
+  authors: [{ name: "ECG Life Sciences", url: "https://ECGLifeSciences.com" }],
   generator: "phunbytcode", // Added generator
   openGraph: {
-    title: "Kopek Networks",
+    title: "ECG Life Sciences",
     description: "Solutions that work",
-    url: "https://kopeknetworks.com",
-    siteName: "Kopek Networks",
+    url: "https://ECGLifeSciences.com",
+    siteName: "ECG Life Sciences",
     images: [
       {
-        url: "https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__", // Updated Open Graph image URL
+        url: "https://ik.imagekit.io/vsf44gqqe/logo.png", // Updated Open Graph image URL
         width: 1200,
         height: 630,
-        alt: "Kopek Networks - Solutions that work",
+        alt: "ECG Life Sciences- Solutions that work",
       },
     ],
     locale: "en_US",
@@ -42,45 +42,45 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary",
-    title: "Kopek Networks",
+    title: "ECG Life Sciences",
     description: "Solutions that work", // Updated Twitter description
     images: [
-      "https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__",
+      "https://ik.imagekit.io/vsf44gqqe/logo.png",
     ], // Updated Twitter image URL
   },
   icons: {
-    icon: "https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__", // Favicon
+    // icon: "https://ik.imagekit.io/vsf44gqqe/logo.png", // Favicon
     apple: [
       {
-        url: "https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__",
+        url: "https://ik.imagekit.io/vsf44gqqe/logo.png",
         sizes: "57x57",
       },
       {
-        url: "https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__",
+        url: "https://ik.imagekit.io/vsf44gqqe/logo.png",
         sizes: "60x60",
       },
       {
-        url: "https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__",
+        url: "https://ik.imagekit.io/vsf44gqqe/logo.png",
         sizes: "72x72",
       },
       {
-        url: "https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__",
+        url: "https://ik.imagekit.io/vsf44gqqe/logo.png",
         sizes: "114x114",
       },
       {
-        url: "https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__",
+        url: "https://ik.imagekit.io/vsf44gqqe/logo.png",
         sizes: "120x120",
       },
       {
-        url: "https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__",
+        url: "https://ik.imagekit.io/vsf44gqqe/logo.png",
         sizes: "144x144",
       },
       {
-        url: "https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__",
+        url: "https://ik.imagekit.io/vsf44gqqe/logo.png",
         sizes: "152x152",
       },
       {
-        url: "https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__",
+        url: "https://ik.imagekit.io/vsf44gqqe/logo.png",
         sizes: "180x180",
       },
     ], // Added multiple Apple touch icons
@@ -96,9 +96,9 @@ export const metadata: Metadata = {
     },
   },
   alternates: {
-    canonical: "https://kopeknetworks.com", // Canonical URL
+    canonical: "https://ECGLifeSciences.com", // Canonical URL
     languages: {
-      "en-US": "https://kopeknetworks.com/en-US", // Alternate language URLs
+      "en-US": "https://ECGLifeSciences.com/en-US", // Alternate language URLs
     },
   },
   verification: {
@@ -133,8 +133,8 @@ export default function RootLayout({
         <meta charSet="utf-8" />
         <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <title>Kopek Networks</title>
-        <meta name="author" content="Kopek Networks" />
+        <title>ECG Life Sciences</title>
+        <meta name="author" content="ECG Life Sciences" />
         <meta
           name="generator"
           content="Starfield Technologies; Go Daddy Website Builder 8.0.0000"
@@ -145,64 +145,64 @@ export default function RootLayout({
         <link
           rel="apple-touch-icon"
           sizes="57x57"
-          href="https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__"
+          href="https://ik.imagekit.io/vsf44gqqe/logo.png"
         />
         <link
           rel="apple-touch-icon"
           sizes="60x60"
-          href="https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__"
+          href="https://ik.imagekit.io/vsf44gqqe/logo.png"
         />
         <link
           rel="apple-touch-icon"
           sizes="72x72"
-          href="https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__"
+          href="https://ik.imagekit.io/vsf44gqqe/logo.png"
         />
         <link
           rel="apple-touch-icon"
           sizes="114x114"
-          href="https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__"
+          href="https://ik.imagekit.io/vsf44gqqe/logo.png"
         />
         <link
           rel="apple-touch-icon"
           sizes="120x120"
-          href="https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__"
+          href="https://ik.imagekit.io/vsf44gqqe/logo.png"
         />
         <link
           rel="apple-touch-icon"
           sizes="144x144"
-          href="https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__"
+          href="https://ik.imagekit.io/vsf44gqqe/logo.png"
         />
         <link
           rel="apple-touch-icon"
           sizes="152x152"
-          href="https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__"
+          href="https://ik.imagekit.io/vsf44gqqe/logo.png"
         />
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__"
+          href="https://ik.imagekit.io/vsf44gqqe/logo.png"
         />
 
         {/* Open Graph Meta Tags */}
-        <meta property="og:url" content="https://kopeknetworks.com/" />
-        <meta property="og:site_name" content="Kopek Networks" />
-        <meta property="og:title" content="Kopek Networks" />
+        <meta property="og:url" content="https://ECGLife Sciences.com/" />
+        <meta property="og:site_name" content="ECG Life Sciences" />
+        <meta property="og:title" content="ECG Life Sciences" />
         <meta property="og:type" content="website" />
         <meta
           property="og:image"
-          content="https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__"
+          content="https://ik.imagekit.io/vsf44gqqe/logo.png"
         />
         <meta property="og:locale" content="en_US" />
 
         {/* Twitter Meta Tags */}
         <meta name="twitter:card" content="summary" />
-        <meta name="twitter:title" content="Kopek Networks" />
+        <meta name="twitter:title" content="ECG Life Sciences" />
         <meta name="twitter:description" content="Launching Soon" />
         <meta
           name="twitter:image"
-          content="https://media-hosting.imagekit.io//100504fac58341f1/Kopek.png?Expires=1836804463&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wj6lS19MizzfhKGgHr~eX-pcCTqGo95HajNJi3tQ0TzbIVyaeB0VpW-wEv9TBLtQRV5FW59-d9uuRYPdewky7WEyz5PSblkTd1XqFbBeSYT1f4FnfkKva7wAXOiKomZPKaXkF21UODmn2WPzsFeED0fpq7tn2q6GPZt~OeQnyazPC7tajuqJWlSmOGF7nu2OEvJiACnS6go7EMCYVNvOPNMYg4P25T6iWfQeRj6K3ykJiAjW~XsvOQ2~6ot6bcAWb-Fv9XF8p69~E~yKg2JU0C~41zHXKTDeBGx6zIIAko0S3gr-bEMDYv2lmHU-N~MKJJnLspRh9BZ-oRBwwkaUOQ__"
+          content="https://ik.imagekit.io/vsf44gqqe/logo.png"
         />
-        <meta name="twitter:image:alt" content="Kopek Networks" />
+        <meta name="twitter:image:alt" content="ECG Life Sciences" />
 
         <meta name="theme-color" content="#969696" />
       </head>

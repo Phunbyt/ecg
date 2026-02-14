@@ -39,7 +39,7 @@ const AnimationTextRow = styled(Box)(({}) => ({
   //   gap: theme.spacing(4), // Adjust gap between items
 }));
 
-const HireWithKopekSection = () => {
+const HireWithECGSection = () => {
   const roles = [
     "Program Managers",
     "Project Managers",
@@ -83,7 +83,7 @@ const HireWithKopekSection = () => {
                 marginBottom: { xs: 2, sm: 3, md: 4 }, // Responsive margin bottom
               }}
             >
-              Hire with Kopek:&nbsp;
+              Hire with ECG:&nbsp;
             </Typography>
 
             {/* Animation Wrapper */}
@@ -148,4 +148,4 @@ const HireWithKopekSection = () => {
   );
 };
 
-export default HireWithKopekSection;
+export default HireWithECGSection;
