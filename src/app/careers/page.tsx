@@ -491,7 +491,7 @@ const CareersPage = () => {
                 fontWeight: 400,
               }}
             >
-              We invest in our people because they're our greatest asset
+              We invest in our people because they&apos;re our greatest asset
             </Typography>
           </Box>
 

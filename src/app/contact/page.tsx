@@ -235,7 +235,7 @@ const ContactUsPage = () => {
                 color: "white",
               }}
             >
-              Let's Build Your Life Sciences Team
+              Let&apos;s Build Your Life Sciences Team
             </Typography>
             <Typography
               variant="h5"
