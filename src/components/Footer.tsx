@@ -67,7 +67,7 @@ const Footer = () => {
                 }}
               >
                 Connect with top life sciences professionals who can drive your
-                next breakthrough. Let's discuss your staffing needs today.
+                next breakthrough. Let&apos;s discuss your staffing needs today.
               </Typography>
             </Grid>
             <Grid

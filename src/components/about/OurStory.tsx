@@ -100,10 +100,10 @@ const OurStorySection = () => {
               }}
             >
               Our deep understanding of regulatory requirements, clinical trial
-              operations, and drug development processes sets us apart. We don't
-              just match resumes to job descriptions—we understand the science,
-              the challenges, and the stakes involved in bringing life-saving
-              therapies to patients.
+              operations, and drug development processes sets us apart. We
+              don&apos;t just match resumes to job descriptions—we understand
+              the science, the challenges, and the stakes involved in bringing
+              life-saving therapies to patients.
             </Typography>
           </Grid>
           <Grid size={{ xs: 12, md: 6 }}>

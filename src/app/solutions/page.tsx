@@ -165,7 +165,7 @@ export default function Page() {
                 opacity: 0.95,
               }}
             >
-              Let's discuss how ECG Life Sciences can help you find the
+              Let&apos;s discuss how ECG Life Sciences can help you find the
               specialized talent you need to achieve your research and
               development goals.
             </Typography>

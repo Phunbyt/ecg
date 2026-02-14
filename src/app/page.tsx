@@ -1,6 +1,6 @@
 // app/page.js
 
-import { hero, pool, profile } from "../../public";
+import { hero } from "../../public";
 import { ArrowRight } from "@mui/icons-material";
 import {
   Box,
@@ -10,7 +10,6 @@ import {
   Card,
   CardContent,
   CardMedia,
-  SvgIcon,
 } from "@mui/material";
 import Grid from "@mui/material/Grid2"; // Correct Grid import
 import IconBlocksSection from "../components/IconBlock";

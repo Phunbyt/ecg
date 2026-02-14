@@ -265,7 +265,7 @@ const Navbar = () => {
 
           {/* Menu Items */}
           <List sx={{ p: 0 }}>
-            {menuItems.map((page, index) => (
+            {menuItems.map((page) => (
               <ListItem key={page.name} disablePadding sx={{ mb: 1 }}>
                 <Link
                   href={page.url}

@@ -248,7 +248,8 @@ const ContactUsPage = () => {
               }}
             >
               Whether you need clinical trial support, regulatory expertise, or
-              R&D talent, we're here to help you find the right professionals.
+              R&D talent, we&apos;re here to help you find the right
+              professionals.
             </Typography>
           </Box>
         </Container>
