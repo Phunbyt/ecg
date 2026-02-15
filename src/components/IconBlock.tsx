@@ -24,7 +24,7 @@ const IconBlocksSection = () => {
     {
       id: "laboratory-services",
       image:
-        "https://images.unsplash.com/photo-1581093458791-9d42e1d6b4f4?w=600&q=80",
+        "https://res.cloudinary.com/dglai7bet/image/upload/v1771164236/yassine-khalfalli-_c70Nhh6p44-unsplash_vplmag.jpg",
       title: "Laboratory Services",
       description:
         "Access specialized lab professionals for assay development, method validation, and analytical testing across all phases.",

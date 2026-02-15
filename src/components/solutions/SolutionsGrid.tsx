@@ -52,7 +52,7 @@ const SolutionsGrid = () => {
       description:
         "PhD scientists, research associates, and lab technicians across molecular biology, biochemistry, and drug discovery platforms.",
       image:
-        "https://images.unsplash.com/photo-1581093458791-9d42e1d6b4f4?w=600&q=80",
+        "https://res.cloudinary.com/dglai7bet/image/upload/v1771164052/samples/cup-on-a-table.jpg",
     },
     {
       icon: Description,

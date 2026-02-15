@@ -6,52 +6,45 @@ import Grid from "@mui/material/Grid2";
 
 const teamMembers = [
   {
-    name: "Pete Clyburn",
+    name: "Denver Bowman",
     role: "CEO/President",
-    image:
-      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
+    image: "https://ik.imagekit.io/vsf44gqqe/denver.png",
     bio: "20+ years in life sciences recruitment",
   },
   {
-    name: "Wenfang Song",
+    name: "Frida Robinson",
     role: "Chief Operating Officer",
-    image:
-      "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&q=80",
+    image: "https://ik.imagekit.io/vsf44gqqe/frida.png",
     bio: "Expert in clinical operations",
   },
   {
-    name: "Ashley Gray",
+    name: "Emerald Mason",
     role: "Chief Financial Officer",
-    image:
-      "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&q=80",
+    image: "https://ik.imagekit.io/vsf44gqqe/emerald.png",
     bio: "Strategic financial leadership",
   },
   {
-    name: "Hakeem Viray",
+    name: "Anil Kumar",
     role: "Director, Business Development",
-    image:
-      "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&q=80",
+    image: "https://ik.imagekit.io/vsf44gqqe/anil.png",
     bio: "Biotech partnership specialist",
   },
   {
-    name: "Johnson Uti",
+    name: "Jerome Brown",
     role: "Director, Human Capital",
-    image:
-      "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400&q=80",
+    image: "https://ik.imagekit.io/vsf44gqqe/jerome.png",
     bio: "Talent acquisition strategist",
   },
   {
-    name: "Rowena Fabian",
+    name: "Alice Harper",
     role: "Principal Consultant",
-    image:
-      "https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?w=400&q=80",
+    image: "https://ik.imagekit.io/vsf44gqqe/alice.png",
     bio: "Regulatory affairs expert",
   },
   {
-    name: "Sharon Owens",
+    name: "Walter Zhang",
     role: "Head, Global Affairs",
-    image:
-      "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=400&q=80",
+    image: "https://ik.imagekit.io/vsf44gqqe/zhang.png",
     bio: "International compliance leader",
   },
 ];

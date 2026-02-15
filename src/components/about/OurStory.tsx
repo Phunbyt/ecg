@@ -32,7 +32,7 @@ const OurStorySection = () => {
       year: "2024",
       title: "Global Reach",
       description:
-        "Serving 500+ biotech and pharma companies across 30+ therapeutic areas worldwide",
+        "Serving 70+ biotech and pharma companies across 30+ therapeutic areas worldwide",
       icon: Public,
     },
   ];
