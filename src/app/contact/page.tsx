@@ -153,8 +153,8 @@ const ContactUsPage = () => {
     {
       icon: Phone,
       title: "Phone",
-      content: "1-800-937-4435",
-      link: "tel:+18009374435",
+      content: " +1 (888) 832-4571",
+      link: "tel:+18888324571",
     },
     {
       icon: Email,

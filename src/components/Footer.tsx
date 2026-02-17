@@ -332,7 +332,7 @@ const Footer = () => {
                         transition: "color 0.3s ease",
                       }}
                     >
-                      1-800-937-4435
+                      +1 (888) 832-4571
                     </Typography>
                   </Link>
                 </Box>
