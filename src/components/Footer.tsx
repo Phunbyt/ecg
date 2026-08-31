@@ -286,7 +286,7 @@ const Footer = () => {
                     <LocationOn sx={{ color: "#0B7A9F", fontSize: 20 }} />
                   </Box>
                   <Link
-                    href="https://www.google.com/maps/place/5900+Balcones+Drive+Suite+100+Austin,+TX+78731"
+                    href="https://maps.app.goo.gl/zMYmd7YEbTf8snaK6"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: "none", flex: 1 }}
@@ -300,9 +300,7 @@ const Footer = () => {
                         transition: "color 0.3s ease",
                       }}
                     >
-                      5900 Balcones Drive Suite 100
-                      <br />
-                      Austin, TX 78731
+                     9250 E Costilla Avenue. Greenwood Village, CO. 80112.
                     </Typography>
                   </Link>
                 </Box>
